@@ -27,7 +27,7 @@ En este proyecto queremos determinar cuál es el mínimo nivel de ruido que tend
 
 Para ello partimos de dos tomas de datos realizadas por la Universidad de Granada y la Universidad de Sevilla con 68 voluntarios donde se realizaron varios experimentos psicofísicos partiendo de cuatro niveles de ruido base (0.01, 0.02, 0.03 y 0.04) en cuatro niveles de luminancia distintas (20, 40, 60 y 80).
 
-## Metodología
+## Resumen
 ---
 En estos experimentos se le presenta al voluntario dos imágenes, una con un nivel de ruido y la otra con algo de ruido extra que se ha incrementado.
 El voluntario debe elegir cuál es la imágen en la que percibe más ruido. Esto se repite tres veces para cada nivel de ruido base e incremento.
