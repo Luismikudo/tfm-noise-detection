@@ -1,0 +1,17 @@
+pandas
+unidecode
+numpy
+scipy
+matplotlib
+Pillow
+cycler
+decorator
+imageio
+kiwisolver
+networkx
+pyparsing
+python-dateutil
+PyWavelets
+scikit-image
+six
+tifffile
