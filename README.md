@@ -3,12 +3,12 @@
 
 ---
 Autor:
-- [Luis Miguel Calvo Magaz](luismicalvomagaz@gmail.com)
+- [Luis Miguel Calvo Magaz](mailto:luismicalvomagaz@gmail.com)
 
 Tutores: 
-- [Pedro Latorre Carmona](plcarmona@ubu.es)
-- [Samuel Morillas Gómez](smorillas@mat.upv.es)
-- [Rafael Huertas Roa](rhuertas@ugr.es)
+- [Pedro Latorre Carmona](mailto:plcarmona@ubu.es)
+- [Samuel Morillas Gómez](mailto:smorillas@mat.upv.es)
+- [Rafael Huertas Roa](mailto:rhuertas@ugr.es)
 
 <p align="center"><img src="readmeImages/portada.png"/></p> 
 

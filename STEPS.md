@@ -2,7 +2,7 @@
 
 ---
 Autor:
-- [Luis Miguel Calvo Magaz](luismicalvomagaz@gmail.com)
+- [Luis Miguel Calvo Magaz](mailto:luismicalvomagaz@gmail.com)
 
 ## Tabla de contenidos:
 ---
