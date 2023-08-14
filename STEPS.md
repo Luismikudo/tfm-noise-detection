@@ -2,7 +2,7 @@
 
 ---
 Autor:
-- Luis Miguel Calvo Magaz
+- [Luis Miguel Calvo Magaz](luismicalvomagaz@gmail.com)
 
 ## Tabla de contenidos:
 ---
@@ -38,7 +38,7 @@ En el script [data_calcs.ipynb](/data_calcs.ipynb) se exportan las variables de 
 - **mean_result_{universidad}.npy** contiene los promedios de la tasa de acierto para cada combinación de ruido base y luminancia en las 10 repeticiones por cada nivel.
 - **mean_std_{universidad}.npy** almacena los datos del (ruido base, media del JND, deviación típica del JND) para cada combinación de ruido base y luminancia.
 
-Estas variables se utilizarán posteriormente en otros scripts como el de [plots_regressions.ipynb](/plots_regressions.ipynb) para realizar gráficos.
+Estas variables se utilizarán posteriormente en otros scripts como el de [plots_regression.ipynb](/plots_regression.ipynb) para realizar gráficos.
 
 ## Promedio de UGR y UPV
 ---
