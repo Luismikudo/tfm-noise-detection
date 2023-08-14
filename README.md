@@ -18,7 +18,9 @@ Tutores:
 ---
 
 - [Introducción](#introducción)
+- [Contenido](#contenido)
 - [Resumen](#resumen)
+- [Requirements](#requirements)
 
 
 ## Introducción
@@ -26,6 +28,11 @@ Tutores:
 En este proyecto queremos determinar cuál es el mínimo nivel de ruido que tendríamos que añadir a una imágen para que sea percibible por el ojo humano.
 
 Para ello partimos de dos tomas de datos realizadas por la Universidad de Granada y la Universidad de Sevilla con 68 voluntarios donde se realizaron varios experimentos psicofísicos partiendo de cuatro niveles de ruido base (0.01, 0.02, 0.03 y 0.04) en cuatro niveles de luminancia distintas (20, 40, 60 y 80).
+
+
+## Contenido
+---
+Para realizar los cálculos de este proyecto se han implementado los scripts de este repositorio y que están descritos y explicados en [STEPS](/STEPS.md)
 
 ## Resumen
 ---
@@ -43,3 +50,10 @@ En el transcurso del trabajo se realizan pruebas estadísticas que determinan qu
 Así podríamos calcular cuál es el umbral medio de detección para cada combinación de ruido base con luminancia, como podemos observar en el siguiente gráfico, donde la luminancia incrementa verticalmente (20, 40, 60 y 80) y el ruido base horizontalmente (0.01, 0.02, 0.03 y 0.04)
 
 <p align="center"><img src="readmeImages/umbrales.png"/></p>
+
+
+## Requirements
+Este proyecto tiene dependencias con varias librerias de python, para instalarlas basta con ejecutar el siguiente comando:
+```
+pip3 install -r requirements.txt
+```
