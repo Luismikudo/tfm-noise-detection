@@ -10,7 +10,7 @@ Tutores:
 - [Samuel Morillas Gómez](mailto:smorillas@mat.upv.es)
 - [Rafael Huertas Roa](mailto:rhuertas@ugr.es)
 
-<p align="center"><img src="readmeImages/portada.png"/></p> 
+<p align="center"><img src="images/readmeImages/portada.png"/></p> 
 
 
 
@@ -39,7 +39,7 @@ Para realizar los cálculos de este proyecto se han implementado los scripts de 
 En estos experimentos se le presenta al voluntario dos imágenes, una con un nivel de ruido y la otra con algo de ruido extra que se ha incrementado.
 El voluntario debe elegir cuál es la imágen en la que percibe más ruido. Esto se repite tres veces para cada nivel de ruido base e incremento.
 
-<p align="center"><img src="readmeImages/vista_observador.png"/></p>
+<p align="center"><img src="images/readmeImages/vista_observador.png"/></p>
 
 Almacenamos la tasa de acierto que tiene el voluntario sobre cada experimento individual de los tres experimentos.
 
@@ -49,7 +49,7 @@ En el transcurso del trabajo se realizan pruebas estadísticas que determinan qu
 
 Así podríamos calcular cuál es el umbral medio de detección para cada combinación de ruido base con luminancia, como podemos observar en el siguiente gráfico, donde la luminancia incrementa verticalmente (20, 40, 60 y 80) y el ruido base horizontalmente (0.01, 0.02, 0.03 y 0.04)
 
-<p align="center"><img src="readmeImages/umbrales.png"/></p>
+<p align="center"><img src="images/readmeImages/umbrales.png"/></p>
 
 
 ## Requirements
