@@ -1,4 +1,4 @@
-<h1 align="center"> Detección de ruido en imágenes</h1>
+<h1 align="center">Análisis de datos de experimentos psicofísicos y determinación de umbrales de detección de ruido en imágenes</h1>
 <p align="center"> Trabajo de Fin de Máster en Inteligencia de Negocio y Big Data en Entornos Seguros</p>
 
 ---
