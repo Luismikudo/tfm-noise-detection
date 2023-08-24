@@ -34,7 +34,7 @@ En el script [calcs_all_participants.ipynb](/calcs_all_participants.ipynb) se re
 
 ## Cálculo de JND para UGR y UPV
 ---
-En el script [data_calcs.ipynb](/data_calcs.ipynb) se exportan las variables de mean_result y mean_std para las universidades de Granada, Valencia y en total.
+En el script [data_calcs.ipynb](/data_calcs.ipynb) se exportan las variables de mean_result y mean_std para las universidades de Granada, Politécnica de Valencia y en total.
 - **mean_result_{universidad}.npy** contiene los promedios de la tasa de acierto para cada combinación de ruido base y luminancia en las 10 repeticiones por cada nivel.
 - **mean_std_{universidad}.npy** almacena los datos del (ruido base, media del JND, deviación típica del JND) para cada combinación de ruido base y luminancia.
 

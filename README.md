@@ -45,7 +45,7 @@ Almacenamos la tasa de acierto que tiene el voluntario sobre cada experimento in
 
 Por lo tanto tendríamos un total de 160 tasas de acierto por cada sesión experimental (4 niveles de ruido, 10 incrementos de ruido por cada nivel de ruido y 4 luminancias), cada voluntario ha realizado aproximadamente dos sesiones.
 
-En el transcurso del trabajo se realizan pruebas estadísticas que determinan que ambos grupos de datos (Universidad de Granada y Universidad de Valencia) pueden ser promediados para obtener conclusiones generales.
+En el transcurso del trabajo se realizan pruebas estadísticas que determinan que ambos grupos de datos (Universidad de Granada y Universidad Politécnica de Valencia) pueden ser promediados para obtener conclusiones generales.
 
 Así podríamos calcular cuál es el umbral medio de detección para cada combinación de ruido base con luminancia, como podemos observar en el siguiente gráfico, donde la luminancia incrementa verticalmente (20, 40, 60 y 80) y el ruido base horizontalmente (0.01, 0.02, 0.03 y 0.04)
 
