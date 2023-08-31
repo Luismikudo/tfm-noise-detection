@@ -3,7 +3,7 @@
 
 ---
 Autor:
-- [Luis Miguel Calvo Magaz](mailto:luismicalvomagaz@gmail.com)
+- [Luis Miguel Calvo Magaz](https://www.linkedin.com/in/luis-miguel-calvo-magaz/)
 
 Tutores: 
 - [Pedro Latorre Carmona](https://scholar.google.com/citations?user=3Rm-8d8AAAAJ&hl=en)
