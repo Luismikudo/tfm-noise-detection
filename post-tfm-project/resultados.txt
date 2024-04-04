@@ -1,0 +1,34 @@
+N  -  Ruido Base inicial , JND , luminancia
+1  -  (0.01, 0.001109, 20),
+2  -  (0.02, 0.003179, 20),
+3  -  (0.03, 0.006551, 20),
+4  -  (0.04, 0.009895, 20)],
+5  -  (0.01, 0.001517, 40),
+6  -  (0.02, 0.002611, 40),
+7  -  (0.03, 0.004158, 40),
+8  -  (0.04, 0.005681, 40)],
+9  -  (0.01, 0.001995, 60),
+10 -  (0.02, 0.001421, 60),
+11 -  (0.03, 0.001045, 60),
+12 -  (0.04, 0.000944, 60)],
+13 -  (0.01, 0.004554, 80),
+14 -  (0.02, 0.004944, 80),
+15 -  (0.03, 0.004783, 80),
+16 -  (0.04, 0.004452, 80)]]
+
+La comparación de la imagen ./ImagenesGeneradas/image_1_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_1_without_incremented_noise.jpg da este resultado: FovVideoVDP=7.5584 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_2_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_2_without_incremented_noise.jpg da este resultado: FovVideoVDP=5.8173 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_3_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_3_without_incremented_noise.jpg da este resultado: FovVideoVDP=5.2865 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_4_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_4_without_incremented_noise.jpg da este resultado: FovVideoVDP=4.9005 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_5_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_5_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.1838 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_6_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_6_without_incremented_noise.jpg da este resultado: FovVideoVDP=8.3341 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_7_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_7_without_incremented_noise.jpg da este resultado: FovVideoVDP=7.3549 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_8_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_8_without_incremented_noise.jpg da este resultado: FovVideoVDP=6.6097 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_9_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_9_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.5720 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_10_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_10_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.3065 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_11_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_11_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.0013 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_12_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_12_without_incremented_noise.jpg da este resultado: FovVideoVDP=8.6055 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_13_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_13_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.8150 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_14_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_14_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.6469 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_15_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_15_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.4693 [JOD]
+La comparación de la imagen ./ImagenesGeneradas/image_16_with_incremented_noise.jpg con la imagen ./ImagenesGeneradas/image_16_without_incremented_noise.jpg da este resultado: FovVideoVDP=9.3081 [JOD]

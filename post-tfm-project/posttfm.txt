@@ -1,0 +1,93 @@
+- Parche de gabor
+- Frecuencia espacial: número de veces que se repite un patrón. detalles más finos, frecuencias más altas
+
+contiene evaluaciones de 360 pares de imágenes (360 filas)
+También contiene 2 columnas: La primera columna es la tasa de acierto y la segunda el tiempo promedio necesitado para elegir
+
+ 
+
+Los 360 pares contienen imágenes con 10 niveles de ruido con los que comparar, 3 niveles de ruido base, 3 orientaciones del parche y 4 frecuencias espaciales
+
+ 
+
+Las imágenes con frecuencia del parche de gabor 0.5 ciclos/dva son las 1-90, 
+Las imágenes con frecuencia del parche de gabor 2 ciclos/dva son las 91-180, 
+Las imágenes con frecuencia del parche de gabor 5 ciclos/dva son las 181-270, 
+Las imágenes con frecuencia del parche de gabor 8 ciclos/dva son las 271-360, (8 ciclos por grado de ángulo visual)
+
+dva: degrees of visual angle: Cuántos ciclos completos del parche (una banda oscura seguida de banda clara): https://www.sr-research.com/wp-content/uploads/2019/11/VisualAngle2.png
+
+ 
+
+En cada grupo de 90, las primeras 30 son con orientación horizontal 
+las segundas 30 con orientación diagonal 
+las últimas 30 con orientación vertical
+
+ 
+
+En cada grupo de 30, las primer 10 son niveles de ruido 0.02, las siguientes 10 0.04 y las últimas 10, 0.08
+
+
+Datos promedios de todos
+
+Luego segregar por sexo, edad, etc
+
+Sacar 36 curvas psicométricas
+
+Sacar gráficas en función de las variables
+
+
+Gráficas a sacar:
+Delta r = umbral - r_base
+1. Dr vs ciclos/dva y con los ruidos: 0.02, 0.04, 0.08 (general)
+2. tres gráficas para las tres orientaciones (la anterior pero discriminando las tres orientaciones)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Cada fichero de resultados contiene evaluaciones de 360 pares de imágenes (360 filas)
+También contiene 2 columnas: La primera columna es la tasa de acierto y la segunda el tiempo promedio necesitado para elegir
+
+ 
+
+Los 360 pares contienen imágenes con 10 niveles de ruido con los que comparar, 3 niveles de ruido base, 3 orientaciones del parche y 4 frecuencias espaciales
+
+ 
+
+Las imágenes con frecuencia del parche de gabor 0.5 ciclos/dva son las 1-90, 
+Las imágenes con frecuencia del parche de gabor 2 ciclos/dva son las 91-180, 
+Las imágenes con frecuencia del parche de gabor 5 ciclos/dva son las 181-270, 
+Las imágenes con frecuencia del parche de gabor 8 ciclos/dva son las 271-360,
+
+ 
+
+En cada grupo de 90, las primeras 30 son con orientación horizontal 
+las segundas 30 con orientación diagonal 
+las últimas 30 con orientación vertical
+
+ 
+
+En cada grupo de 30, las primeras 10 son niveles de ruido 0.02, las siguientes 10 0.04 y las últimas 10, 0.08
+
+ 
+
+Resumiendo
+1-10 0.5 ciclos/dva, horizontal, ruido base 0.02
+11-20 0.5 ciclos/dva, horizontal, ruido base 0.04
+21-30 0.5 ciclos/dva, horizontal, ruido base 0.08
+31-40 0.5 ciclos/dva, diagonal, ruido base 0.02
+41-50 0.5 ciclos/dva, diagonal, ruido base 0.04
+51-60 0.5 ciclos/dva, diagonal, ruido base 0.08
+61-70 0.5 ciclos/dva, vertical, ruido base 0.02
+71-80 0.5 ciclos/dva, vertical, ruido base 0.04
+81-90 0.5 ciclos/dva, vertical, ruido base 0.08
+91-100 2 ciclos/dva, horizontal, ruido base 0.02
+....
+
+ 
+
+Gráficas a sacar:
+Definición: Dr = umbral-r_base
+1. Dr vs ciclos/dva. Ruido 0.02 en amarillo, 0.04 en verde, 0.08 en azul
+2. Tres gráficas como 1 para las 3 orientaciones

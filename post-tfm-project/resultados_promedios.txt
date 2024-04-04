@@ -1,0 +1,16 @@
+El promedio de las comparaciones para el valor de imagen noise 1 es: 7.5113, y la desviación estándar es: 0.0405496
+El promedio de las comparaciones para el valor de imagen noise 2 es: 5.88307, y la desviación estándar es: 0.0529337
+El promedio de las comparaciones para el valor de imagen noise 3 es: 5.23418, y la desviación estándar es: 0.0608377
+El promedio de las comparaciones para el valor de imagen noise 4 es: 4.92824, y la desviación estándar es: 0.0634024
+El promedio de las comparaciones para el valor de imagen noise 5 es: 9.18294, y la desviación estándar es: 0.0139535
+El promedio de las comparaciones para el valor de imagen noise 6 es: 8.30792, y la desviación estándar es: 0.0235243
+El promedio de las comparaciones para el valor de imagen noise 7 es: 7.42615, y la desviación estándar es: 0.0343185
+El promedio de las comparaciones para el valor de imagen noise 8 es: 6.66873, y la desviación estándar es: 0.0426141
+El promedio de las comparaciones para el valor de imagen noise 9 es: 9.57466, y la desviación estándar es: 0.00778191
+El promedio de las comparaciones para el valor de imagen noise 10 es: 9.30928, y la desviación estándar es: 0.0104839
+El promedio de las comparaciones para el valor de imagen noise 11 es: 8.9764, y la desviación estándar es: 0.0126189
+El promedio de las comparaciones para el valor de imagen noise 12 es: 8.61824, y la desviación estándar es: 0.0179924
+El promedio de las comparaciones para el valor de imagen noise 13 es: 9.81763, y la desviación estándar es: 0.00512819
+El promedio de las comparaciones para el valor de imagen noise 14 es: 9.64638, y la desviación estándar es: 0.00538577
+El promedio de las comparaciones para el valor de imagen noise 15 es: 9.47802, y la desviación estándar es: 0.00606508
+El promedio de las comparaciones para el valor de imagen noise 16 es: 9.30201, y la desviación estándar es: 0.00906015

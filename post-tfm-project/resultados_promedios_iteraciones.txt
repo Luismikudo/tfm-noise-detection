@@ -1,0 +1,1816 @@
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_1
+Imagen 10 de la carpeta ./generated_images/image_set_1, JOD: 9.2959
+Imagen 11 de la carpeta ./generated_images/image_set_1, JOD: 8.9781
+Imagen 12 de la carpeta ./generated_images/image_set_1, JOD: 8.6294
+Imagen 13 de la carpeta ./generated_images/image_set_1, JOD: 9.8239
+Imagen 14 de la carpeta ./generated_images/image_set_1, JOD: 9.6523
+Imagen 15 de la carpeta ./generated_images/image_set_1, JOD: 9.4791
+Imagen 16 de la carpeta ./generated_images/image_set_1, JOD: 9.3141
+Imagen 1 de la carpeta ./generated_images/image_set_1, JOD: 7.4700
+Imagen 2 de la carpeta ./generated_images/image_set_1, JOD: 5.8843
+Imagen 3 de la carpeta ./generated_images/image_set_1, JOD: 5.3081
+Imagen 4 de la carpeta ./generated_images/image_set_1, JOD: 4.8503
+Imagen 5 de la carpeta ./generated_images/image_set_1, JOD: 9.2189
+Imagen 6 de la carpeta ./generated_images/image_set_1, JOD: 8.2964
+Imagen 7 de la carpeta ./generated_images/image_set_1, JOD: 7.4152
+Imagen 8 de la carpeta ./generated_images/image_set_1, JOD: 6.6316
+Imagen 9 de la carpeta ./generated_images/image_set_1, JOD: 9.5795
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_10
+Imagen 10 de la carpeta ./generated_images/image_set_10, JOD: 9.3016
+Imagen 11 de la carpeta ./generated_images/image_set_10, JOD: 8.9769
+Imagen 12 de la carpeta ./generated_images/image_set_10, JOD: 8.5983
+Imagen 13 de la carpeta ./generated_images/image_set_10, JOD: 9.8216
+Imagen 14 de la carpeta ./generated_images/image_set_10, JOD: 9.6412
+Imagen 15 de la carpeta ./generated_images/image_set_10, JOD: 9.4783
+Imagen 16 de la carpeta ./generated_images/image_set_10, JOD: 9.2951
+Imagen 1 de la carpeta ./generated_images/image_set_10, JOD: 7.5784
+Imagen 2 de la carpeta ./generated_images/image_set_10, JOD: 5.9020
+Imagen 3 de la carpeta ./generated_images/image_set_10, JOD: 5.3428
+Imagen 4 de la carpeta ./generated_images/image_set_10, JOD: 4.9551
+Imagen 5 de la carpeta ./generated_images/image_set_10, JOD: 9.1935
+Imagen 6 de la carpeta ./generated_images/image_set_10, JOD: 8.2465
+Imagen 7 de la carpeta ./generated_images/image_set_10, JOD: 7.3640
+Imagen 8 de la carpeta ./generated_images/image_set_10, JOD: 6.7076
+Imagen 9 de la carpeta ./generated_images/image_set_10, JOD: 9.5900
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_100
+Imagen 10 de la carpeta ./generated_images/image_set_100, JOD: 9.3162
+Imagen 11 de la carpeta ./generated_images/image_set_100, JOD: 8.9657
+Imagen 12 de la carpeta ./generated_images/image_set_100, JOD: 8.6292
+Imagen 13 de la carpeta ./generated_images/image_set_100, JOD: 9.8152
+Imagen 14 de la carpeta ./generated_images/image_set_100, JOD: 9.6473
+Imagen 15 de la carpeta ./generated_images/image_set_100, JOD: 9.4843
+Imagen 16 de la carpeta ./generated_images/image_set_100, JOD: 9.3082
+Imagen 1 de la carpeta ./generated_images/image_set_100, JOD: 7.4562
+Imagen 2 de la carpeta ./generated_images/image_set_100, JOD: 5.8405
+Imagen 3 de la carpeta ./generated_images/image_set_100, JOD: 5.2229
+Imagen 4 de la carpeta ./generated_images/image_set_100, JOD: 4.9538
+Imagen 5 de la carpeta ./generated_images/image_set_100, JOD: 9.1737
+Imagen 6 de la carpeta ./generated_images/image_set_100, JOD: 8.3153
+Imagen 7 de la carpeta ./generated_images/image_set_100, JOD: 7.4383
+Imagen 8 de la carpeta ./generated_images/image_set_100, JOD: 6.5787
+Imagen 9 de la carpeta ./generated_images/image_set_100, JOD: 9.5818
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_11
+Imagen 10 de la carpeta ./generated_images/image_set_11, JOD: 9.3098
+Imagen 11 de la carpeta ./generated_images/image_set_11, JOD: 8.9697
+Imagen 12 de la carpeta ./generated_images/image_set_11, JOD: 8.6258
+Imagen 13 de la carpeta ./generated_images/image_set_11, JOD: 9.8238
+Imagen 14 de la carpeta ./generated_images/image_set_11, JOD: 9.6536
+Imagen 15 de la carpeta ./generated_images/image_set_11, JOD: 9.4863
+Imagen 16 de la carpeta ./generated_images/image_set_11, JOD: 9.2998
+Imagen 1 de la carpeta ./generated_images/image_set_11, JOD: 7.5847
+Imagen 2 de la carpeta ./generated_images/image_set_11, JOD: 5.8784
+Imagen 3 de la carpeta ./generated_images/image_set_11, JOD: 5.2555
+Imagen 4 de la carpeta ./generated_images/image_set_11, JOD: 4.8160
+Imagen 5 de la carpeta ./generated_images/image_set_11, JOD: 9.1860
+Imagen 6 de la carpeta ./generated_images/image_set_11, JOD: 8.3136
+Imagen 7 de la carpeta ./generated_images/image_set_11, JOD: 7.4698
+Imagen 8 de la carpeta ./generated_images/image_set_11, JOD: 6.6031
+Imagen 9 de la carpeta ./generated_images/image_set_11, JOD: 9.5785
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_12
+Imagen 10 de la carpeta ./generated_images/image_set_12, JOD: 9.3234
+Imagen 11 de la carpeta ./generated_images/image_set_12, JOD: 8.9729
+Imagen 12 de la carpeta ./generated_images/image_set_12, JOD: 8.6418
+Imagen 13 de la carpeta ./generated_images/image_set_12, JOD: 9.8222
+Imagen 14 de la carpeta ./generated_images/image_set_12, JOD: 9.6464
+Imagen 15 de la carpeta ./generated_images/image_set_12, JOD: 9.4801
+Imagen 16 de la carpeta ./generated_images/image_set_12, JOD: 9.3059
+Imagen 1 de la carpeta ./generated_images/image_set_12, JOD: 7.4951
+Imagen 2 de la carpeta ./generated_images/image_set_12, JOD: 5.8669
+Imagen 3 de la carpeta ./generated_images/image_set_12, JOD: 5.2603
+Imagen 4 de la carpeta ./generated_images/image_set_12, JOD: 4.8664
+Imagen 5 de la carpeta ./generated_images/image_set_12, JOD: 9.1760
+Imagen 6 de la carpeta ./generated_images/image_set_12, JOD: 8.2906
+Imagen 7 de la carpeta ./generated_images/image_set_12, JOD: 7.4956
+Imagen 8 de la carpeta ./generated_images/image_set_12, JOD: 6.6418
+Imagen 9 de la carpeta ./generated_images/image_set_12, JOD: 9.5913
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_13
+Imagen 10 de la carpeta ./generated_images/image_set_13, JOD: 9.2935
+Imagen 11 de la carpeta ./generated_images/image_set_13, JOD: 8.9802
+Imagen 12 de la carpeta ./generated_images/image_set_13, JOD: 8.6090
+Imagen 13 de la carpeta ./generated_images/image_set_13, JOD: 9.8196
+Imagen 14 de la carpeta ./generated_images/image_set_13, JOD: 9.6467
+Imagen 15 de la carpeta ./generated_images/image_set_13, JOD: 9.4755
+Imagen 16 de la carpeta ./generated_images/image_set_13, JOD: 9.3105
+Imagen 1 de la carpeta ./generated_images/image_set_13, JOD: 7.5018
+Imagen 2 de la carpeta ./generated_images/image_set_13, JOD: 5.9219
+Imagen 3 de la carpeta ./generated_images/image_set_13, JOD: 5.2886
+Imagen 4 de la carpeta ./generated_images/image_set_13, JOD: 4.9405
+Imagen 5 de la carpeta ./generated_images/image_set_13, JOD: 9.1852
+Imagen 6 de la carpeta ./generated_images/image_set_13, JOD: 8.3090
+Imagen 7 de la carpeta ./generated_images/image_set_13, JOD: 7.4429
+Imagen 8 de la carpeta ./generated_images/image_set_13, JOD: 6.6741
+Imagen 9 de la carpeta ./generated_images/image_set_13, JOD: 9.5646
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_14
+Imagen 10 de la carpeta ./generated_images/image_set_14, JOD: 9.3038
+Imagen 11 de la carpeta ./generated_images/image_set_14, JOD: 8.9875
+Imagen 12 de la carpeta ./generated_images/image_set_14, JOD: 8.5980
+Imagen 13 de la carpeta ./generated_images/image_set_14, JOD: 9.8269
+Imagen 14 de la carpeta ./generated_images/image_set_14, JOD: 9.6536
+Imagen 15 de la carpeta ./generated_images/image_set_14, JOD: 9.4759
+Imagen 16 de la carpeta ./generated_images/image_set_14, JOD: 9.2873
+Imagen 1 de la carpeta ./generated_images/image_set_14, JOD: 7.5142
+Imagen 2 de la carpeta ./generated_images/image_set_14, JOD: 5.8902
+Imagen 3 de la carpeta ./generated_images/image_set_14, JOD: 5.1557
+Imagen 4 de la carpeta ./generated_images/image_set_14, JOD: 4.8968
+Imagen 5 de la carpeta ./generated_images/image_set_14, JOD: 9.1833
+Imagen 6 de la carpeta ./generated_images/image_set_14, JOD: 8.3134
+Imagen 7 de la carpeta ./generated_images/image_set_14, JOD: 7.4604
+Imagen 8 de la carpeta ./generated_images/image_set_14, JOD: 6.6260
+Imagen 9 de la carpeta ./generated_images/image_set_14, JOD: 9.5833
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_15
+Imagen 10 de la carpeta ./generated_images/image_set_15, JOD: 9.2996
+Imagen 11 de la carpeta ./generated_images/image_set_15, JOD: 8.9652
+Imagen 12 de la carpeta ./generated_images/image_set_15, JOD: 8.6391
+Imagen 13 de la carpeta ./generated_images/image_set_15, JOD: 9.8226
+Imagen 14 de la carpeta ./generated_images/image_set_15, JOD: 9.6413
+Imagen 15 de la carpeta ./generated_images/image_set_15, JOD: 9.4843
+Imagen 16 de la carpeta ./generated_images/image_set_15, JOD: 9.3072
+Imagen 1 de la carpeta ./generated_images/image_set_15, JOD: 7.4800
+Imagen 2 de la carpeta ./generated_images/image_set_15, JOD: 5.9884
+Imagen 3 de la carpeta ./generated_images/image_set_15, JOD: 5.1681
+Imagen 4 de la carpeta ./generated_images/image_set_15, JOD: 5.0743
+Imagen 5 de la carpeta ./generated_images/image_set_15, JOD: 9.1808
+Imagen 6 de la carpeta ./generated_images/image_set_15, JOD: 8.3147
+Imagen 7 de la carpeta ./generated_images/image_set_15, JOD: 7.4618
+Imagen 8 de la carpeta ./generated_images/image_set_15, JOD: 6.6930
+Imagen 9 de la carpeta ./generated_images/image_set_15, JOD: 9.5802
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_16
+Imagen 10 de la carpeta ./generated_images/image_set_16, JOD: 9.3099
+Imagen 11 de la carpeta ./generated_images/image_set_16, JOD: 8.9746
+Imagen 12 de la carpeta ./generated_images/image_set_16, JOD: 8.6128
+Imagen 13 de la carpeta ./generated_images/image_set_16, JOD: 9.8140
+Imagen 14 de la carpeta ./generated_images/image_set_16, JOD: 9.6426
+Imagen 15 de la carpeta ./generated_images/image_set_16, JOD: 9.4829
+Imagen 16 de la carpeta ./generated_images/image_set_16, JOD: 9.2875
+Imagen 1 de la carpeta ./generated_images/image_set_16, JOD: 7.5001
+Imagen 2 de la carpeta ./generated_images/image_set_16, JOD: 5.9140
+Imagen 3 de la carpeta ./generated_images/image_set_16, JOD: 5.2586
+Imagen 4 de la carpeta ./generated_images/image_set_16, JOD: 4.9922
+Imagen 5 de la carpeta ./generated_images/image_set_16, JOD: 9.1852
+Imagen 6 de la carpeta ./generated_images/image_set_16, JOD: 8.3264
+Imagen 7 de la carpeta ./generated_images/image_set_16, JOD: 7.3846
+Imagen 8 de la carpeta ./generated_images/image_set_16, JOD: 6.5946
+Imagen 9 de la carpeta ./generated_images/image_set_16, JOD: 9.5769
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_17
+Imagen 10 de la carpeta ./generated_images/image_set_17, JOD: 9.3085
+Imagen 11 de la carpeta ./generated_images/image_set_17, JOD: 8.9720
+Imagen 12 de la carpeta ./generated_images/image_set_17, JOD: 8.6228
+Imagen 13 de la carpeta ./generated_images/image_set_17, JOD: 9.8180
+Imagen 14 de la carpeta ./generated_images/image_set_17, JOD: 9.6480
+Imagen 15 de la carpeta ./generated_images/image_set_17, JOD: 9.4772
+Imagen 16 de la carpeta ./generated_images/image_set_17, JOD: 9.3087
+Imagen 1 de la carpeta ./generated_images/image_set_17, JOD: 7.4976
+Imagen 2 de la carpeta ./generated_images/image_set_17, JOD: 5.8909
+Imagen 3 de la carpeta ./generated_images/image_set_17, JOD: 5.3092
+Imagen 4 de la carpeta ./generated_images/image_set_17, JOD: 4.9790
+Imagen 5 de la carpeta ./generated_images/image_set_17, JOD: 9.1721
+Imagen 6 de la carpeta ./generated_images/image_set_17, JOD: 8.3586
+Imagen 7 de la carpeta ./generated_images/image_set_17, JOD: 7.4307
+Imagen 8 de la carpeta ./generated_images/image_set_17, JOD: 6.7182
+Imagen 9 de la carpeta ./generated_images/image_set_17, JOD: 9.5786
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_18
+Imagen 10 de la carpeta ./generated_images/image_set_18, JOD: 9.3186
+Imagen 11 de la carpeta ./generated_images/image_set_18, JOD: 8.9663
+Imagen 12 de la carpeta ./generated_images/image_set_18, JOD: 8.6240
+Imagen 13 de la carpeta ./generated_images/image_set_18, JOD: 9.8220
+Imagen 14 de la carpeta ./generated_images/image_set_18, JOD: 9.6496
+Imagen 15 de la carpeta ./generated_images/image_set_18, JOD: 9.4919
+Imagen 16 de la carpeta ./generated_images/image_set_18, JOD: 9.3085
+Imagen 1 de la carpeta ./generated_images/image_set_18, JOD: 7.4283
+Imagen 2 de la carpeta ./generated_images/image_set_18, JOD: 5.8309
+Imagen 3 de la carpeta ./generated_images/image_set_18, JOD: 5.2682
+Imagen 4 de la carpeta ./generated_images/image_set_18, JOD: 4.9240
+Imagen 5 de la carpeta ./generated_images/image_set_18, JOD: 9.1752
+Imagen 6 de la carpeta ./generated_images/image_set_18, JOD: 8.3115
+Imagen 7 de la carpeta ./generated_images/image_set_18, JOD: 7.4768
+Imagen 8 de la carpeta ./generated_images/image_set_18, JOD: 6.6678
+Imagen 9 de la carpeta ./generated_images/image_set_18, JOD: 9.5779
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_19
+Imagen 10 de la carpeta ./generated_images/image_set_19, JOD: 9.2954
+Imagen 11 de la carpeta ./generated_images/image_set_19, JOD: 8.9737
+Imagen 12 de la carpeta ./generated_images/image_set_19, JOD: 8.6164
+Imagen 13 de la carpeta ./generated_images/image_set_19, JOD: 9.8187
+Imagen 14 de la carpeta ./generated_images/image_set_19, JOD: 9.6481
+Imagen 15 de la carpeta ./generated_images/image_set_19, JOD: 9.4819
+Imagen 16 de la carpeta ./generated_images/image_set_19, JOD: 9.2900
+Imagen 1 de la carpeta ./generated_images/image_set_19, JOD: 7.4885
+Imagen 2 de la carpeta ./generated_images/image_set_19, JOD: 5.9153
+Imagen 3 de la carpeta ./generated_images/image_set_19, JOD: 5.2571
+Imagen 4 de la carpeta ./generated_images/image_set_19, JOD: 4.9822
+Imagen 5 de la carpeta ./generated_images/image_set_19, JOD: 9.1854
+Imagen 6 de la carpeta ./generated_images/image_set_19, JOD: 8.2964
+Imagen 7 de la carpeta ./generated_images/image_set_19, JOD: 7.3890
+Imagen 8 de la carpeta ./generated_images/image_set_19, JOD: 6.6849
+Imagen 9 de la carpeta ./generated_images/image_set_19, JOD: 9.5848
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_2
+Imagen 10 de la carpeta ./generated_images/image_set_2, JOD: 9.3202
+Imagen 11 de la carpeta ./generated_images/image_set_2, JOD: 8.9735
+Imagen 12 de la carpeta ./generated_images/image_set_2, JOD: 8.6338
+Imagen 13 de la carpeta ./generated_images/image_set_2, JOD: 9.8172
+Imagen 14 de la carpeta ./generated_images/image_set_2, JOD: 9.6427
+Imagen 15 de la carpeta ./generated_images/image_set_2, JOD: 9.4750
+Imagen 16 de la carpeta ./generated_images/image_set_2, JOD: 9.3079
+Imagen 1 de la carpeta ./generated_images/image_set_2, JOD: 7.4663
+Imagen 2 de la carpeta ./generated_images/image_set_2, JOD: 5.8750
+Imagen 3 de la carpeta ./generated_images/image_set_2, JOD: 5.2305
+Imagen 4 de la carpeta ./generated_images/image_set_2, JOD: 4.9370
+Imagen 5 de la carpeta ./generated_images/image_set_2, JOD: 9.1739
+Imagen 6 de la carpeta ./generated_images/image_set_2, JOD: 8.3167
+Imagen 7 de la carpeta ./generated_images/image_set_2, JOD: 7.4723
+Imagen 8 de la carpeta ./generated_images/image_set_2, JOD: 6.6465
+Imagen 9 de la carpeta ./generated_images/image_set_2, JOD: 9.5737
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_20
+Imagen 10 de la carpeta ./generated_images/image_set_20, JOD: 9.2998
+Imagen 11 de la carpeta ./generated_images/image_set_20, JOD: 8.9804
+Imagen 12 de la carpeta ./generated_images/image_set_20, JOD: 8.5817
+Imagen 13 de la carpeta ./generated_images/image_set_20, JOD: 9.8113
+Imagen 14 de la carpeta ./generated_images/image_set_20, JOD: 9.6384
+Imagen 15 de la carpeta ./generated_images/image_set_20, JOD: 9.4817
+Imagen 16 de la carpeta ./generated_images/image_set_20, JOD: 9.2997
+Imagen 1 de la carpeta ./generated_images/image_set_20, JOD: 7.4140
+Imagen 2 de la carpeta ./generated_images/image_set_20, JOD: 5.8124
+Imagen 3 de la carpeta ./generated_images/image_set_20, JOD: 5.3343
+Imagen 4 de la carpeta ./generated_images/image_set_20, JOD: 5.0006
+Imagen 5 de la carpeta ./generated_images/image_set_20, JOD: 9.1692
+Imagen 6 de la carpeta ./generated_images/image_set_20, JOD: 8.2982
+Imagen 7 de la carpeta ./generated_images/image_set_20, JOD: 7.3765
+Imagen 8 de la carpeta ./generated_images/image_set_20, JOD: 6.6201
+Imagen 9 de la carpeta ./generated_images/image_set_20, JOD: 9.5741
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_21
+Imagen 10 de la carpeta ./generated_images/image_set_21, JOD: 9.3067
+Imagen 11 de la carpeta ./generated_images/image_set_21, JOD: 8.9820
+Imagen 12 de la carpeta ./generated_images/image_set_21, JOD: 8.6408
+Imagen 13 de la carpeta ./generated_images/image_set_21, JOD: 9.8194
+Imagen 14 de la carpeta ./generated_images/image_set_21, JOD: 9.6433
+Imagen 15 de la carpeta ./generated_images/image_set_21, JOD: 9.4831
+Imagen 16 de la carpeta ./generated_images/image_set_21, JOD: 9.3118
+Imagen 1 de la carpeta ./generated_images/image_set_21, JOD: 7.4576
+Imagen 2 de la carpeta ./generated_images/image_set_21, JOD: 5.8260
+Imagen 3 de la carpeta ./generated_images/image_set_21, JOD: 5.1359
+Imagen 4 de la carpeta ./generated_images/image_set_21, JOD: 4.9877
+Imagen 5 de la carpeta ./generated_images/image_set_21, JOD: 9.1891
+Imagen 6 de la carpeta ./generated_images/image_set_21, JOD: 8.2960
+Imagen 7 de la carpeta ./generated_images/image_set_21, JOD: 7.4350
+Imagen 8 de la carpeta ./generated_images/image_set_21, JOD: 6.6756
+Imagen 9 de la carpeta ./generated_images/image_set_21, JOD: 9.5758
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_22
+Imagen 10 de la carpeta ./generated_images/image_set_22, JOD: 9.3128
+Imagen 11 de la carpeta ./generated_images/image_set_22, JOD: 8.9911
+Imagen 12 de la carpeta ./generated_images/image_set_22, JOD: 8.6170
+Imagen 13 de la carpeta ./generated_images/image_set_22, JOD: 9.8250
+Imagen 14 de la carpeta ./generated_images/image_set_22, JOD: 9.6497
+Imagen 15 de la carpeta ./generated_images/image_set_22, JOD: 9.4831
+Imagen 16 de la carpeta ./generated_images/image_set_22, JOD: 9.2742
+Imagen 1 de la carpeta ./generated_images/image_set_22, JOD: 7.4736
+Imagen 2 de la carpeta ./generated_images/image_set_22, JOD: 5.8837
+Imagen 3 de la carpeta ./generated_images/image_set_22, JOD: 5.2862
+Imagen 4 de la carpeta ./generated_images/image_set_22, JOD: 4.9771
+Imagen 5 de la carpeta ./generated_images/image_set_22, JOD: 9.1697
+Imagen 6 de la carpeta ./generated_images/image_set_22, JOD: 8.2952
+Imagen 7 de la carpeta ./generated_images/image_set_22, JOD: 7.4612
+Imagen 8 de la carpeta ./generated_images/image_set_22, JOD: 6.6986
+Imagen 9 de la carpeta ./generated_images/image_set_22, JOD: 9.5772
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_23
+Imagen 10 de la carpeta ./generated_images/image_set_23, JOD: 9.3081
+Imagen 11 de la carpeta ./generated_images/image_set_23, JOD: 8.9758
+Imagen 12 de la carpeta ./generated_images/image_set_23, JOD: 8.6215
+Imagen 13 de la carpeta ./generated_images/image_set_23, JOD: 9.8146
+Imagen 14 de la carpeta ./generated_images/image_set_23, JOD: 9.6444
+Imagen 15 de la carpeta ./generated_images/image_set_23, JOD: 9.4872
+Imagen 16 de la carpeta ./generated_images/image_set_23, JOD: 9.3096
+Imagen 1 de la carpeta ./generated_images/image_set_23, JOD: 7.5467
+Imagen 2 de la carpeta ./generated_images/image_set_23, JOD: 5.8767
+Imagen 3 de la carpeta ./generated_images/image_set_23, JOD: 5.2891
+Imagen 4 de la carpeta ./generated_images/image_set_23, JOD: 4.9327
+Imagen 5 de la carpeta ./generated_images/image_set_23, JOD: 9.1858
+Imagen 6 de la carpeta ./generated_images/image_set_23, JOD: 8.3160
+Imagen 7 de la carpeta ./generated_images/image_set_23, JOD: 7.4367
+Imagen 8 de la carpeta ./generated_images/image_set_23, JOD: 6.6854
+Imagen 9 de la carpeta ./generated_images/image_set_23, JOD: 9.5778
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_24
+Imagen 10 de la carpeta ./generated_images/image_set_24, JOD: 9.2997
+Imagen 11 de la carpeta ./generated_images/image_set_24, JOD: 8.9734
+Imagen 12 de la carpeta ./generated_images/image_set_24, JOD: 8.6144
+Imagen 13 de la carpeta ./generated_images/image_set_24, JOD: 9.8143
+Imagen 14 de la carpeta ./generated_images/image_set_24, JOD: 9.6394
+Imagen 15 de la carpeta ./generated_images/image_set_24, JOD: 9.4612
+Imagen 16 de la carpeta ./generated_images/image_set_24, JOD: 9.3082
+Imagen 1 de la carpeta ./generated_images/image_set_24, JOD: 7.4968
+Imagen 2 de la carpeta ./generated_images/image_set_24, JOD: 5.9006
+Imagen 3 de la carpeta ./generated_images/image_set_24, JOD: 5.2004
+Imagen 4 de la carpeta ./generated_images/image_set_24, JOD: 5.0175
+Imagen 5 de la carpeta ./generated_images/image_set_24, JOD: 9.1850
+Imagen 6 de la carpeta ./generated_images/image_set_24, JOD: 8.3026
+Imagen 7 de la carpeta ./generated_images/image_set_24, JOD: 7.4705
+Imagen 8 de la carpeta ./generated_images/image_set_24, JOD: 6.6924
+Imagen 9 de la carpeta ./generated_images/image_set_24, JOD: 9.5761
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_25
+Imagen 10 de la carpeta ./generated_images/image_set_25, JOD: 9.3211
+Imagen 11 de la carpeta ./generated_images/image_set_25, JOD: 8.9671
+Imagen 12 de la carpeta ./generated_images/image_set_25, JOD: 8.6081
+Imagen 13 de la carpeta ./generated_images/image_set_25, JOD: 9.8184
+Imagen 14 de la carpeta ./generated_images/image_set_25, JOD: 9.6501
+Imagen 15 de la carpeta ./generated_images/image_set_25, JOD: 9.4642
+Imagen 16 de la carpeta ./generated_images/image_set_25, JOD: 9.3009
+Imagen 1 de la carpeta ./generated_images/image_set_25, JOD: 7.5741
+Imagen 2 de la carpeta ./generated_images/image_set_25, JOD: 5.7756
+Imagen 3 de la carpeta ./generated_images/image_set_25, JOD: 5.2973
+Imagen 4 de la carpeta ./generated_images/image_set_25, JOD: 4.9499
+Imagen 5 de la carpeta ./generated_images/image_set_25, JOD: 9.1988
+Imagen 6 de la carpeta ./generated_images/image_set_25, JOD: 8.2960
+Imagen 7 de la carpeta ./generated_images/image_set_25, JOD: 7.4418
+Imagen 8 de la carpeta ./generated_images/image_set_25, JOD: 6.6577
+Imagen 9 de la carpeta ./generated_images/image_set_25, JOD: 9.5788
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_26
+Imagen 10 de la carpeta ./generated_images/image_set_26, JOD: 9.3079
+Imagen 11 de la carpeta ./generated_images/image_set_26, JOD: 8.9950
+Imagen 12 de la carpeta ./generated_images/image_set_26, JOD: 8.6266
+Imagen 13 de la carpeta ./generated_images/image_set_26, JOD: 9.8167
+Imagen 14 de la carpeta ./generated_images/image_set_26, JOD: 9.6498
+Imagen 15 de la carpeta ./generated_images/image_set_26, JOD: 9.4715
+Imagen 16 de la carpeta ./generated_images/image_set_26, JOD: 9.3149
+Imagen 1 de la carpeta ./generated_images/image_set_26, JOD: 7.5021
+Imagen 2 de la carpeta ./generated_images/image_set_26, JOD: 6.0009
+Imagen 3 de la carpeta ./generated_images/image_set_26, JOD: 5.2314
+Imagen 4 de la carpeta ./generated_images/image_set_26, JOD: 4.9424
+Imagen 5 de la carpeta ./generated_images/image_set_26, JOD: 9.1730
+Imagen 6 de la carpeta ./generated_images/image_set_26, JOD: 8.2616
+Imagen 7 de la carpeta ./generated_images/image_set_26, JOD: 7.4849
+Imagen 8 de la carpeta ./generated_images/image_set_26, JOD: 6.6973
+Imagen 9 de la carpeta ./generated_images/image_set_26, JOD: 9.5745
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_27
+Imagen 10 de la carpeta ./generated_images/image_set_27, JOD: 9.3088
+Imagen 11 de la carpeta ./generated_images/image_set_27, JOD: 8.9698
+Imagen 12 de la carpeta ./generated_images/image_set_27, JOD: 8.6267
+Imagen 13 de la carpeta ./generated_images/image_set_27, JOD: 9.8149
+Imagen 14 de la carpeta ./generated_images/image_set_27, JOD: 9.6421
+Imagen 15 de la carpeta ./generated_images/image_set_27, JOD: 9.4760
+Imagen 16 de la carpeta ./generated_images/image_set_27, JOD: 9.2835
+Imagen 1 de la carpeta ./generated_images/image_set_27, JOD: 7.5054
+Imagen 2 de la carpeta ./generated_images/image_set_27, JOD: 5.9944
+Imagen 3 de la carpeta ./generated_images/image_set_27, JOD: 5.3602
+Imagen 4 de la carpeta ./generated_images/image_set_27, JOD: 5.0368
+Imagen 5 de la carpeta ./generated_images/image_set_27, JOD: 9.1850
+Imagen 6 de la carpeta ./generated_images/image_set_27, JOD: 8.3135
+Imagen 7 de la carpeta ./generated_images/image_set_27, JOD: 7.4125
+Imagen 8 de la carpeta ./generated_images/image_set_27, JOD: 6.6965
+Imagen 9 de la carpeta ./generated_images/image_set_27, JOD: 9.5803
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_28
+Imagen 10 de la carpeta ./generated_images/image_set_28, JOD: 9.3170
+Imagen 11 de la carpeta ./generated_images/image_set_28, JOD: 8.9924
+Imagen 12 de la carpeta ./generated_images/image_set_28, JOD: 8.6426
+Imagen 13 de la carpeta ./generated_images/image_set_28, JOD: 9.8110
+Imagen 14 de la carpeta ./generated_images/image_set_28, JOD: 9.6482
+Imagen 15 de la carpeta ./generated_images/image_set_28, JOD: 9.4825
+Imagen 16 de la carpeta ./generated_images/image_set_28, JOD: 9.3055
+Imagen 1 de la carpeta ./generated_images/image_set_28, JOD: 7.5103
+Imagen 2 de la carpeta ./generated_images/image_set_28, JOD: 5.8362
+Imagen 3 de la carpeta ./generated_images/image_set_28, JOD: 5.1192
+Imagen 4 de la carpeta ./generated_images/image_set_28, JOD: 5.0112
+Imagen 5 de la carpeta ./generated_images/image_set_28, JOD: 9.2074
+Imagen 6 de la carpeta ./generated_images/image_set_28, JOD: 8.3505
+Imagen 7 de la carpeta ./generated_images/image_set_28, JOD: 7.3889
+Imagen 8 de la carpeta ./generated_images/image_set_28, JOD: 6.7075
+Imagen 9 de la carpeta ./generated_images/image_set_28, JOD: 9.5565
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_29
+Imagen 10 de la carpeta ./generated_images/image_set_29, JOD: 9.3222
+Imagen 11 de la carpeta ./generated_images/image_set_29, JOD: 8.9550
+Imagen 12 de la carpeta ./generated_images/image_set_29, JOD: 8.6347
+Imagen 13 de la carpeta ./generated_images/image_set_29, JOD: 9.8246
+Imagen 14 de la carpeta ./generated_images/image_set_29, JOD: 9.6478
+Imagen 15 de la carpeta ./generated_images/image_set_29, JOD: 9.4732
+Imagen 16 de la carpeta ./generated_images/image_set_29, JOD: 9.3034
+Imagen 1 de la carpeta ./generated_images/image_set_29, JOD: 7.5413
+Imagen 2 de la carpeta ./generated_images/image_set_29, JOD: 5.8704
+Imagen 3 de la carpeta ./generated_images/image_set_29, JOD: 5.2805
+Imagen 4 de la carpeta ./generated_images/image_set_29, JOD: 4.9655
+Imagen 5 de la carpeta ./generated_images/image_set_29, JOD: 9.1721
+Imagen 6 de la carpeta ./generated_images/image_set_29, JOD: 8.3208
+Imagen 7 de la carpeta ./generated_images/image_set_29, JOD: 7.4324
+Imagen 8 de la carpeta ./generated_images/image_set_29, JOD: 6.6862
+Imagen 9 de la carpeta ./generated_images/image_set_29, JOD: 9.5768
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_3
+Imagen 10 de la carpeta ./generated_images/image_set_3, JOD: 9.3218
+Imagen 11 de la carpeta ./generated_images/image_set_3, JOD: 8.9876
+Imagen 12 de la carpeta ./generated_images/image_set_3, JOD: 8.6006
+Imagen 13 de la carpeta ./generated_images/image_set_3, JOD: 9.8190
+Imagen 14 de la carpeta ./generated_images/image_set_3, JOD: 9.6424
+Imagen 15 de la carpeta ./generated_images/image_set_3, JOD: 9.4815
+Imagen 16 de la carpeta ./generated_images/image_set_3, JOD: 9.2953
+Imagen 1 de la carpeta ./generated_images/image_set_3, JOD: 7.5281
+Imagen 2 de la carpeta ./generated_images/image_set_3, JOD: 5.8039
+Imagen 3 de la carpeta ./generated_images/image_set_3, JOD: 5.3042
+Imagen 4 de la carpeta ./generated_images/image_set_3, JOD: 4.8252
+Imagen 5 de la carpeta ./generated_images/image_set_3, JOD: 9.1904
+Imagen 6 de la carpeta ./generated_images/image_set_3, JOD: 8.3034
+Imagen 7 de la carpeta ./generated_images/image_set_3, JOD: 7.4022
+Imagen 8 de la carpeta ./generated_images/image_set_3, JOD: 6.7363
+Imagen 9 de la carpeta ./generated_images/image_set_3, JOD: 9.5701
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_30
+Imagen 10 de la carpeta ./generated_images/image_set_30, JOD: 9.3003
+Imagen 11 de la carpeta ./generated_images/image_set_30, JOD: 8.9628
+Imagen 12 de la carpeta ./generated_images/image_set_30, JOD: 8.6106
+Imagen 13 de la carpeta ./generated_images/image_set_30, JOD: 9.8153
+Imagen 14 de la carpeta ./generated_images/image_set_30, JOD: 9.6452
+Imagen 15 de la carpeta ./generated_images/image_set_30, JOD: 9.4771
+Imagen 16 de la carpeta ./generated_images/image_set_30, JOD: 9.2877
+Imagen 1 de la carpeta ./generated_images/image_set_30, JOD: 7.5979
+Imagen 2 de la carpeta ./generated_images/image_set_30, JOD: 5.9309
+Imagen 3 de la carpeta ./generated_images/image_set_30, JOD: 5.1868
+Imagen 4 de la carpeta ./generated_images/image_set_30, JOD: 4.9687
+Imagen 5 de la carpeta ./generated_images/image_set_30, JOD: 9.2000
+Imagen 6 de la carpeta ./generated_images/image_set_30, JOD: 8.2978
+Imagen 7 de la carpeta ./generated_images/image_set_30, JOD: 7.3655
+Imagen 8 de la carpeta ./generated_images/image_set_30, JOD: 6.6732
+Imagen 9 de la carpeta ./generated_images/image_set_30, JOD: 9.5702
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_31
+Imagen 10 de la carpeta ./generated_images/image_set_31, JOD: 9.3039
+Imagen 11 de la carpeta ./generated_images/image_set_31, JOD: 8.9925
+Imagen 12 de la carpeta ./generated_images/image_set_31, JOD: 8.6280
+Imagen 13 de la carpeta ./generated_images/image_set_31, JOD: 9.8182
+Imagen 14 de la carpeta ./generated_images/image_set_31, JOD: 9.6473
+Imagen 15 de la carpeta ./generated_images/image_set_31, JOD: 9.4676
+Imagen 16 de la carpeta ./generated_images/image_set_31, JOD: 9.2975
+Imagen 1 de la carpeta ./generated_images/image_set_31, JOD: 7.5420
+Imagen 2 de la carpeta ./generated_images/image_set_31, JOD: 5.8577
+Imagen 3 de la carpeta ./generated_images/image_set_31, JOD: 5.2588
+Imagen 4 de la carpeta ./generated_images/image_set_31, JOD: 4.8161
+Imagen 5 de la carpeta ./generated_images/image_set_31, JOD: 9.1700
+Imagen 6 de la carpeta ./generated_images/image_set_31, JOD: 8.3182
+Imagen 7 de la carpeta ./generated_images/image_set_31, JOD: 7.4507
+Imagen 8 de la carpeta ./generated_images/image_set_31, JOD: 6.6217
+Imagen 9 de la carpeta ./generated_images/image_set_31, JOD: 9.5886
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_32
+Imagen 10 de la carpeta ./generated_images/image_set_32, JOD: 9.2938
+Imagen 11 de la carpeta ./generated_images/image_set_32, JOD: 8.9655
+Imagen 12 de la carpeta ./generated_images/image_set_32, JOD: 8.6476
+Imagen 13 de la carpeta ./generated_images/image_set_32, JOD: 9.8119
+Imagen 14 de la carpeta ./generated_images/image_set_32, JOD: 9.6558
+Imagen 15 de la carpeta ./generated_images/image_set_32, JOD: 9.4781
+Imagen 16 de la carpeta ./generated_images/image_set_32, JOD: 9.2980
+Imagen 1 de la carpeta ./generated_images/image_set_32, JOD: 7.4434
+Imagen 2 de la carpeta ./generated_images/image_set_32, JOD: 5.8854
+Imagen 3 de la carpeta ./generated_images/image_set_32, JOD: 5.1399
+Imagen 4 de la carpeta ./generated_images/image_set_32, JOD: 4.8796
+Imagen 5 de la carpeta ./generated_images/image_set_32, JOD: 9.1848
+Imagen 6 de la carpeta ./generated_images/image_set_32, JOD: 8.3435
+Imagen 7 de la carpeta ./generated_images/image_set_32, JOD: 7.4395
+Imagen 8 de la carpeta ./generated_images/image_set_32, JOD: 6.6906
+Imagen 9 de la carpeta ./generated_images/image_set_32, JOD: 9.5691
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_33
+Imagen 10 de la carpeta ./generated_images/image_set_33, JOD: 9.3064
+Imagen 11 de la carpeta ./generated_images/image_set_33, JOD: 8.9779
+Imagen 12 de la carpeta ./generated_images/image_set_33, JOD: 8.5928
+Imagen 13 de la carpeta ./generated_images/image_set_33, JOD: 9.8120
+Imagen 14 de la carpeta ./generated_images/image_set_33, JOD: 9.6366
+Imagen 15 de la carpeta ./generated_images/image_set_33, JOD: 9.4832
+Imagen 16 de la carpeta ./generated_images/image_set_33, JOD: 9.3076
+Imagen 1 de la carpeta ./generated_images/image_set_33, JOD: 7.5165
+Imagen 2 de la carpeta ./generated_images/image_set_33, JOD: 5.8583
+Imagen 3 de la carpeta ./generated_images/image_set_33, JOD: 5.2744
+Imagen 4 de la carpeta ./generated_images/image_set_33, JOD: 4.8771
+Imagen 5 de la carpeta ./generated_images/image_set_33, JOD: 9.2011
+Imagen 6 de la carpeta ./generated_images/image_set_33, JOD: 8.2947
+Imagen 7 de la carpeta ./generated_images/image_set_33, JOD: 7.4370
+Imagen 8 de la carpeta ./generated_images/image_set_33, JOD: 6.6855
+Imagen 9 de la carpeta ./generated_images/image_set_33, JOD: 9.5740
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_34
+Imagen 10 de la carpeta ./generated_images/image_set_34, JOD: 9.3157
+Imagen 11 de la carpeta ./generated_images/image_set_34, JOD: 8.9554
+Imagen 12 de la carpeta ./generated_images/image_set_34, JOD: 8.6493
+Imagen 13 de la carpeta ./generated_images/image_set_34, JOD: 9.8186
+Imagen 14 de la carpeta ./generated_images/image_set_34, JOD: 9.6424
+Imagen 15 de la carpeta ./generated_images/image_set_34, JOD: 9.4775
+Imagen 16 de la carpeta ./generated_images/image_set_34, JOD: 9.3053
+Imagen 1 de la carpeta ./generated_images/image_set_34, JOD: 7.4977
+Imagen 2 de la carpeta ./generated_images/image_set_34, JOD: 5.8957
+Imagen 3 de la carpeta ./generated_images/image_set_34, JOD: 5.2686
+Imagen 4 de la carpeta ./generated_images/image_set_34, JOD: 4.8361
+Imagen 5 de la carpeta ./generated_images/image_set_34, JOD: 9.1718
+Imagen 6 de la carpeta ./generated_images/image_set_34, JOD: 8.2902
+Imagen 7 de la carpeta ./generated_images/image_set_34, JOD: 7.4719
+Imagen 8 de la carpeta ./generated_images/image_set_34, JOD: 6.6857
+Imagen 9 de la carpeta ./generated_images/image_set_34, JOD: 9.5816
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_35
+Imagen 10 de la carpeta ./generated_images/image_set_35, JOD: 9.3241
+Imagen 11 de la carpeta ./generated_images/image_set_35, JOD: 8.9740
+Imagen 12 de la carpeta ./generated_images/image_set_35, JOD: 8.6191
+Imagen 13 de la carpeta ./generated_images/image_set_35, JOD: 9.8225
+Imagen 14 de la carpeta ./generated_images/image_set_35, JOD: 9.6488
+Imagen 15 de la carpeta ./generated_images/image_set_35, JOD: 9.4761
+Imagen 16 de la carpeta ./generated_images/image_set_35, JOD: 9.3016
+Imagen 1 de la carpeta ./generated_images/image_set_35, JOD: 7.5438
+Imagen 2 de la carpeta ./generated_images/image_set_35, JOD: 5.8725
+Imagen 3 de la carpeta ./generated_images/image_set_35, JOD: 5.1827
+Imagen 4 de la carpeta ./generated_images/image_set_35, JOD: 4.9059
+Imagen 5 de la carpeta ./generated_images/image_set_35, JOD: 9.1765
+Imagen 6 de la carpeta ./generated_images/image_set_35, JOD: 8.3170
+Imagen 7 de la carpeta ./generated_images/image_set_35, JOD: 7.3914
+Imagen 8 de la carpeta ./generated_images/image_set_35, JOD: 6.8047
+Imagen 9 de la carpeta ./generated_images/image_set_35, JOD: 9.5737
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_36
+Imagen 10 de la carpeta ./generated_images/image_set_36, JOD: 9.2955
+Imagen 11 de la carpeta ./generated_images/image_set_36, JOD: 8.9868
+Imagen 12 de la carpeta ./generated_images/image_set_36, JOD: 8.5806
+Imagen 13 de la carpeta ./generated_images/image_set_36, JOD: 9.8111
+Imagen 14 de la carpeta ./generated_images/image_set_36, JOD: 9.6554
+Imagen 15 de la carpeta ./generated_images/image_set_36, JOD: 9.4671
+Imagen 16 de la carpeta ./generated_images/image_set_36, JOD: 9.2892
+Imagen 1 de la carpeta ./generated_images/image_set_36, JOD: 7.4571
+Imagen 2 de la carpeta ./generated_images/image_set_36, JOD: 5.8349
+Imagen 3 de la carpeta ./generated_images/image_set_36, JOD: 5.2309
+Imagen 4 de la carpeta ./generated_images/image_set_36, JOD: 4.9054
+Imagen 5 de la carpeta ./generated_images/image_set_36, JOD: 9.2118
+Imagen 6 de la carpeta ./generated_images/image_set_36, JOD: 8.3235
+Imagen 7 de la carpeta ./generated_images/image_set_36, JOD: 7.4042
+Imagen 8 de la carpeta ./generated_images/image_set_36, JOD: 6.7399
+Imagen 9 de la carpeta ./generated_images/image_set_36, JOD: 9.5634
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_37
+Imagen 10 de la carpeta ./generated_images/image_set_37, JOD: 9.3130
+Imagen 11 de la carpeta ./generated_images/image_set_37, JOD: 8.9532
+Imagen 12 de la carpeta ./generated_images/image_set_37, JOD: 8.6299
+Imagen 13 de la carpeta ./generated_images/image_set_37, JOD: 9.8130
+Imagen 14 de la carpeta ./generated_images/image_set_37, JOD: 9.6443
+Imagen 15 de la carpeta ./generated_images/image_set_37, JOD: 9.4782
+Imagen 16 de la carpeta ./generated_images/image_set_37, JOD: 9.3059
+Imagen 1 de la carpeta ./generated_images/image_set_37, JOD: 7.5242
+Imagen 2 de la carpeta ./generated_images/image_set_37, JOD: 5.9705
+Imagen 3 de la carpeta ./generated_images/image_set_37, JOD: 5.1881
+Imagen 4 de la carpeta ./generated_images/image_set_37, JOD: 4.9481
+Imagen 5 de la carpeta ./generated_images/image_set_37, JOD: 9.1732
+Imagen 6 de la carpeta ./generated_images/image_set_37, JOD: 8.2898
+Imagen 7 de la carpeta ./generated_images/image_set_37, JOD: 7.4069
+Imagen 8 de la carpeta ./generated_images/image_set_37, JOD: 6.7280
+Imagen 9 de la carpeta ./generated_images/image_set_37, JOD: 9.5550
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_38
+Imagen 10 de la carpeta ./generated_images/image_set_38, JOD: 9.3103
+Imagen 11 de la carpeta ./generated_images/image_set_38, JOD: 8.9725
+Imagen 12 de la carpeta ./generated_images/image_set_38, JOD: 8.6299
+Imagen 13 de la carpeta ./generated_images/image_set_38, JOD: 9.8153
+Imagen 14 de la carpeta ./generated_images/image_set_38, JOD: 9.6409
+Imagen 15 de la carpeta ./generated_images/image_set_38, JOD: 9.4712
+Imagen 16 de la carpeta ./generated_images/image_set_38, JOD: 9.2937
+Imagen 1 de la carpeta ./generated_images/image_set_38, JOD: 7.5321
+Imagen 2 de la carpeta ./generated_images/image_set_38, JOD: 5.8435
+Imagen 3 de la carpeta ./generated_images/image_set_38, JOD: 5.2627
+Imagen 4 de la carpeta ./generated_images/image_set_38, JOD: 4.9083
+Imagen 5 de la carpeta ./generated_images/image_set_38, JOD: 9.1691
+Imagen 6 de la carpeta ./generated_images/image_set_38, JOD: 8.3128
+Imagen 7 de la carpeta ./generated_images/image_set_38, JOD: 7.3962
+Imagen 8 de la carpeta ./generated_images/image_set_38, JOD: 6.6901
+Imagen 9 de la carpeta ./generated_images/image_set_38, JOD: 9.5822
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_39
+Imagen 10 de la carpeta ./generated_images/image_set_39, JOD: 9.3256
+Imagen 11 de la carpeta ./generated_images/image_set_39, JOD: 8.9595
+Imagen 12 de la carpeta ./generated_images/image_set_39, JOD: 8.6301
+Imagen 13 de la carpeta ./generated_images/image_set_39, JOD: 9.8195
+Imagen 14 de la carpeta ./generated_images/image_set_39, JOD: 9.6487
+Imagen 15 de la carpeta ./generated_images/image_set_39, JOD: 9.4824
+Imagen 16 de la carpeta ./generated_images/image_set_39, JOD: 9.3064
+Imagen 1 de la carpeta ./generated_images/image_set_39, JOD: 7.5354
+Imagen 2 de la carpeta ./generated_images/image_set_39, JOD: 5.8814
+Imagen 3 de la carpeta ./generated_images/image_set_39, JOD: 5.1436
+Imagen 4 de la carpeta ./generated_images/image_set_39, JOD: 4.9635
+Imagen 5 de la carpeta ./generated_images/image_set_39, JOD: 9.1744
+Imagen 6 de la carpeta ./generated_images/image_set_39, JOD: 8.2883
+Imagen 7 de la carpeta ./generated_images/image_set_39, JOD: 7.4273
+Imagen 8 de la carpeta ./generated_images/image_set_39, JOD: 6.6687
+Imagen 9 de la carpeta ./generated_images/image_set_39, JOD: 9.5606
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_4
+Imagen 10 de la carpeta ./generated_images/image_set_4, JOD: 9.3103
+Imagen 11 de la carpeta ./generated_images/image_set_4, JOD: 8.9933
+Imagen 12 de la carpeta ./generated_images/image_set_4, JOD: 8.6154
+Imagen 13 de la carpeta ./generated_images/image_set_4, JOD: 9.8125
+Imagen 14 de la carpeta ./generated_images/image_set_4, JOD: 9.6479
+Imagen 15 de la carpeta ./generated_images/image_set_4, JOD: 9.4736
+Imagen 16 de la carpeta ./generated_images/image_set_4, JOD: 9.2943
+Imagen 1 de la carpeta ./generated_images/image_set_4, JOD: 7.5536
+Imagen 2 de la carpeta ./generated_images/image_set_4, JOD: 5.8502
+Imagen 3 de la carpeta ./generated_images/image_set_4, JOD: 5.2490
+Imagen 4 de la carpeta ./generated_images/image_set_4, JOD: 4.8218
+Imagen 5 de la carpeta ./generated_images/image_set_4, JOD: 9.1726
+Imagen 6 de la carpeta ./generated_images/image_set_4, JOD: 8.2937
+Imagen 7 de la carpeta ./generated_images/image_set_4, JOD: 7.4005
+Imagen 8 de la carpeta ./generated_images/image_set_4, JOD: 6.7155
+Imagen 9 de la carpeta ./generated_images/image_set_4, JOD: 9.5635
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_40
+Imagen 10 de la carpeta ./generated_images/image_set_40, JOD: 9.2843
+Imagen 11 de la carpeta ./generated_images/image_set_40, JOD: 8.9428
+Imagen 12 de la carpeta ./generated_images/image_set_40, JOD: 8.6109
+Imagen 13 de la carpeta ./generated_images/image_set_40, JOD: 9.8230
+Imagen 14 de la carpeta ./generated_images/image_set_40, JOD: 9.6477
+Imagen 15 de la carpeta ./generated_images/image_set_40, JOD: 9.4768
+Imagen 16 de la carpeta ./generated_images/image_set_40, JOD: 9.3025
+Imagen 1 de la carpeta ./generated_images/image_set_40, JOD: 7.5228
+Imagen 2 de la carpeta ./generated_images/image_set_40, JOD: 5.8741
+Imagen 3 de la carpeta ./generated_images/image_set_40, JOD: 5.2713
+Imagen 4 de la carpeta ./generated_images/image_set_40, JOD: 4.8278
+Imagen 5 de la carpeta ./generated_images/image_set_40, JOD: 9.1943
+Imagen 6 de la carpeta ./generated_images/image_set_40, JOD: 8.3171
+Imagen 7 de la carpeta ./generated_images/image_set_40, JOD: 7.4333
+Imagen 8 de la carpeta ./generated_images/image_set_40, JOD: 6.6528
+Imagen 9 de la carpeta ./generated_images/image_set_40, JOD: 9.5625
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_41
+Imagen 10 de la carpeta ./generated_images/image_set_41, JOD: 9.3150
+Imagen 11 de la carpeta ./generated_images/image_set_41, JOD: 8.9630
+Imagen 12 de la carpeta ./generated_images/image_set_41, JOD: 8.6171
+Imagen 13 de la carpeta ./generated_images/image_set_41, JOD: 9.8277
+Imagen 14 de la carpeta ./generated_images/image_set_41, JOD: 9.6546
+Imagen 15 de la carpeta ./generated_images/image_set_41, JOD: 9.4906
+Imagen 16 de la carpeta ./generated_images/image_set_41, JOD: 9.2913
+Imagen 1 de la carpeta ./generated_images/image_set_41, JOD: 7.5451
+Imagen 2 de la carpeta ./generated_images/image_set_41, JOD: 5.8369
+Imagen 3 de la carpeta ./generated_images/image_set_41, JOD: 5.2006
+Imagen 4 de la carpeta ./generated_images/image_set_41, JOD: 5.0496
+Imagen 5 de la carpeta ./generated_images/image_set_41, JOD: 9.1948
+Imagen 6 de la carpeta ./generated_images/image_set_41, JOD: 8.2879
+Imagen 7 de la carpeta ./generated_images/image_set_41, JOD: 7.4037
+Imagen 8 de la carpeta ./generated_images/image_set_41, JOD: 6.5898
+Imagen 9 de la carpeta ./generated_images/image_set_41, JOD: 9.5634
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_42
+Imagen 10 de la carpeta ./generated_images/image_set_42, JOD: 9.3295
+Imagen 11 de la carpeta ./generated_images/image_set_42, JOD: 8.9668
+Imagen 12 de la carpeta ./generated_images/image_set_42, JOD: 8.6302
+Imagen 13 de la carpeta ./generated_images/image_set_42, JOD: 9.8194
+Imagen 14 de la carpeta ./generated_images/image_set_42, JOD: 9.6533
+Imagen 15 de la carpeta ./generated_images/image_set_42, JOD: 9.4735
+Imagen 16 de la carpeta ./generated_images/image_set_42, JOD: 9.3171
+Imagen 1 de la carpeta ./generated_images/image_set_42, JOD: 7.5245
+Imagen 2 de la carpeta ./generated_images/image_set_42, JOD: 5.8767
+Imagen 3 de la carpeta ./generated_images/image_set_42, JOD: 5.1696
+Imagen 4 de la carpeta ./generated_images/image_set_42, JOD: 4.9743
+Imagen 5 de la carpeta ./generated_images/image_set_42, JOD: 9.1774
+Imagen 6 de la carpeta ./generated_images/image_set_42, JOD: 8.3353
+Imagen 7 de la carpeta ./generated_images/image_set_42, JOD: 7.3861
+Imagen 8 de la carpeta ./generated_images/image_set_42, JOD: 6.7039
+Imagen 9 de la carpeta ./generated_images/image_set_42, JOD: 9.5783
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_43
+Imagen 10 de la carpeta ./generated_images/image_set_43, JOD: 9.3115
+Imagen 11 de la carpeta ./generated_images/image_set_43, JOD: 8.9848
+Imagen 12 de la carpeta ./generated_images/image_set_43, JOD: 8.5928
+Imagen 13 de la carpeta ./generated_images/image_set_43, JOD: 9.8186
+Imagen 14 de la carpeta ./generated_images/image_set_43, JOD: 9.6391
+Imagen 15 de la carpeta ./generated_images/image_set_43, JOD: 9.4787
+Imagen 16 de la carpeta ./generated_images/image_set_43, JOD: 9.3106
+Imagen 1 de la carpeta ./generated_images/image_set_43, JOD: 7.5401
+Imagen 2 de la carpeta ./generated_images/image_set_43, JOD: 5.9042
+Imagen 3 de la carpeta ./generated_images/image_set_43, JOD: 5.2274
+Imagen 4 de la carpeta ./generated_images/image_set_43, JOD: 5.0228
+Imagen 5 de la carpeta ./generated_images/image_set_43, JOD: 9.1753
+Imagen 6 de la carpeta ./generated_images/image_set_43, JOD: 8.2923
+Imagen 7 de la carpeta ./generated_images/image_set_43, JOD: 7.3965
+Imagen 8 de la carpeta ./generated_images/image_set_43, JOD: 6.6832
+Imagen 9 de la carpeta ./generated_images/image_set_43, JOD: 9.5684
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_44
+Imagen 10 de la carpeta ./generated_images/image_set_44, JOD: 9.2969
+Imagen 11 de la carpeta ./generated_images/image_set_44, JOD: 8.9607
+Imagen 12 de la carpeta ./generated_images/image_set_44, JOD: 8.6493
+Imagen 13 de la carpeta ./generated_images/image_set_44, JOD: 9.8139
+Imagen 14 de la carpeta ./generated_images/image_set_44, JOD: 9.6507
+Imagen 15 de la carpeta ./generated_images/image_set_44, JOD: 9.4803
+Imagen 16 de la carpeta ./generated_images/image_set_44, JOD: 9.3017
+Imagen 1 de la carpeta ./generated_images/image_set_44, JOD: 7.5635
+Imagen 2 de la carpeta ./generated_images/image_set_44, JOD: 5.9079
+Imagen 3 de la carpeta ./generated_images/image_set_44, JOD: 5.2001
+Imagen 4 de la carpeta ./generated_images/image_set_44, JOD: 4.9501
+Imagen 5 de la carpeta ./generated_images/image_set_44, JOD: 9.1716
+Imagen 6 de la carpeta ./generated_images/image_set_44, JOD: 8.2960
+Imagen 7 de la carpeta ./generated_images/image_set_44, JOD: 7.4470
+Imagen 8 de la carpeta ./generated_images/image_set_44, JOD: 6.6725
+Imagen 9 de la carpeta ./generated_images/image_set_44, JOD: 9.5739
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_45
+Imagen 10 de la carpeta ./generated_images/image_set_45, JOD: 9.3072
+Imagen 11 de la carpeta ./generated_images/image_set_45, JOD: 8.9937
+Imagen 12 de la carpeta ./generated_images/image_set_45, JOD: 8.5808
+Imagen 13 de la carpeta ./generated_images/image_set_45, JOD: 9.8109
+Imagen 14 de la carpeta ./generated_images/image_set_45, JOD: 9.6499
+Imagen 15 de la carpeta ./generated_images/image_set_45, JOD: 9.4816
+Imagen 16 de la carpeta ./generated_images/image_set_45, JOD: 9.2974
+Imagen 1 de la carpeta ./generated_images/image_set_45, JOD: 7.5224
+Imagen 2 de la carpeta ./generated_images/image_set_45, JOD: 5.9329
+Imagen 3 de la carpeta ./generated_images/image_set_45, JOD: 5.2725
+Imagen 4 de la carpeta ./generated_images/image_set_45, JOD: 4.9469
+Imagen 5 de la carpeta ./generated_images/image_set_45, JOD: 9.2022
+Imagen 6 de la carpeta ./generated_images/image_set_45, JOD: 8.3057
+Imagen 7 de la carpeta ./generated_images/image_set_45, JOD: 7.4332
+Imagen 8 de la carpeta ./generated_images/image_set_45, JOD: 6.6843
+Imagen 9 de la carpeta ./generated_images/image_set_45, JOD: 9.5719
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_46
+Imagen 10 de la carpeta ./generated_images/image_set_46, JOD: 9.3073
+Imagen 11 de la carpeta ./generated_images/image_set_46, JOD: 8.9714
+Imagen 12 de la carpeta ./generated_images/image_set_46, JOD: 8.6141
+Imagen 13 de la carpeta ./generated_images/image_set_46, JOD: 9.8244
+Imagen 14 de la carpeta ./generated_images/image_set_46, JOD: 9.6456
+Imagen 15 de la carpeta ./generated_images/image_set_46, JOD: 9.4760
+Imagen 16 de la carpeta ./generated_images/image_set_46, JOD: 9.3003
+Imagen 1 de la carpeta ./generated_images/image_set_46, JOD: 7.4941
+Imagen 2 de la carpeta ./generated_images/image_set_46, JOD: 5.8525
+Imagen 3 de la carpeta ./generated_images/image_set_46, JOD: 5.2082
+Imagen 4 de la carpeta ./generated_images/image_set_46, JOD: 4.8399
+Imagen 5 de la carpeta ./generated_images/image_set_46, JOD: 9.1960
+Imagen 6 de la carpeta ./generated_images/image_set_46, JOD: 8.3181
+Imagen 7 de la carpeta ./generated_images/image_set_46, JOD: 7.3641
+Imagen 8 de la carpeta ./generated_images/image_set_46, JOD: 6.5773
+Imagen 9 de la carpeta ./generated_images/image_set_46, JOD: 9.5895
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_47
+Imagen 10 de la carpeta ./generated_images/image_set_47, JOD: 9.3006
+Imagen 11 de la carpeta ./generated_images/image_set_47, JOD: 8.9657
+Imagen 12 de la carpeta ./generated_images/image_set_47, JOD: 8.6125
+Imagen 13 de la carpeta ./generated_images/image_set_47, JOD: 9.8169
+Imagen 14 de la carpeta ./generated_images/image_set_47, JOD: 9.6393
+Imagen 15 de la carpeta ./generated_images/image_set_47, JOD: 9.4681
+Imagen 16 de la carpeta ./generated_images/image_set_47, JOD: 9.2927
+Imagen 1 de la carpeta ./generated_images/image_set_47, JOD: 7.5159
+Imagen 2 de la carpeta ./generated_images/image_set_47, JOD: 5.8517
+Imagen 3 de la carpeta ./generated_images/image_set_47, JOD: 5.1927
+Imagen 4 de la carpeta ./generated_images/image_set_47, JOD: 4.9065
+Imagen 5 de la carpeta ./generated_images/image_set_47, JOD: 9.1635
+Imagen 6 de la carpeta ./generated_images/image_set_47, JOD: 8.3142
+Imagen 7 de la carpeta ./generated_images/image_set_47, JOD: 7.4554
+Imagen 8 de la carpeta ./generated_images/image_set_47, JOD: 6.5663
+Imagen 9 de la carpeta ./generated_images/image_set_47, JOD: 9.5694
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_48
+Imagen 10 de la carpeta ./generated_images/image_set_48, JOD: 9.3142
+Imagen 11 de la carpeta ./generated_images/image_set_48, JOD: 8.9556
+Imagen 12 de la carpeta ./generated_images/image_set_48, JOD: 8.6378
+Imagen 13 de la carpeta ./generated_images/image_set_48, JOD: 9.8026
+Imagen 14 de la carpeta ./generated_images/image_set_48, JOD: 9.6502
+Imagen 15 de la carpeta ./generated_images/image_set_48, JOD: 9.4676
+Imagen 16 de la carpeta ./generated_images/image_set_48, JOD: 9.3036
+Imagen 1 de la carpeta ./generated_images/image_set_48, JOD: 7.4498
+Imagen 2 de la carpeta ./generated_images/image_set_48, JOD: 5.9043
+Imagen 3 de la carpeta ./generated_images/image_set_48, JOD: 5.1493
+Imagen 4 de la carpeta ./generated_images/image_set_48, JOD: 4.8374
+Imagen 5 de la carpeta ./generated_images/image_set_48, JOD: 9.1912
+Imagen 6 de la carpeta ./generated_images/image_set_48, JOD: 8.3062
+Imagen 7 de la carpeta ./generated_images/image_set_48, JOD: 7.4219
+Imagen 8 de la carpeta ./generated_images/image_set_48, JOD: 6.6700
+Imagen 9 de la carpeta ./generated_images/image_set_48, JOD: 9.5668
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_49
+Imagen 10 de la carpeta ./generated_images/image_set_49, JOD: 9.2961
+Imagen 11 de la carpeta ./generated_images/image_set_49, JOD: 8.9702
+Imagen 12 de la carpeta ./generated_images/image_set_49, JOD: 8.6493
+Imagen 13 de la carpeta ./generated_images/image_set_49, JOD: 9.8193
+Imagen 14 de la carpeta ./generated_images/image_set_49, JOD: 9.6429
+Imagen 15 de la carpeta ./generated_images/image_set_49, JOD: 9.4789
+Imagen 16 de la carpeta ./generated_images/image_set_49, JOD: 9.2911
+Imagen 1 de la carpeta ./generated_images/image_set_49, JOD: 7.4892
+Imagen 2 de la carpeta ./generated_images/image_set_49, JOD: 5.8620
+Imagen 3 de la carpeta ./generated_images/image_set_49, JOD: 5.0971
+Imagen 4 de la carpeta ./generated_images/image_set_49, JOD: 4.9345
+Imagen 5 de la carpeta ./generated_images/image_set_49, JOD: 9.1719
+Imagen 6 de la carpeta ./generated_images/image_set_49, JOD: 8.2826
+Imagen 7 de la carpeta ./generated_images/image_set_49, JOD: 7.4388
+Imagen 8 de la carpeta ./generated_images/image_set_49, JOD: 6.6295
+Imagen 9 de la carpeta ./generated_images/image_set_49, JOD: 9.5853
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_5
+Imagen 10 de la carpeta ./generated_images/image_set_5, JOD: 9.2975
+Imagen 11 de la carpeta ./generated_images/image_set_5, JOD: 8.9722
+Imagen 12 de la carpeta ./generated_images/image_set_5, JOD: 8.6341
+Imagen 13 de la carpeta ./generated_images/image_set_5, JOD: 9.8191
+Imagen 14 de la carpeta ./generated_images/image_set_5, JOD: 9.6489
+Imagen 15 de la carpeta ./generated_images/image_set_5, JOD: 9.4822
+Imagen 16 de la carpeta ./generated_images/image_set_5, JOD: 9.3034
+Imagen 1 de la carpeta ./generated_images/image_set_5, JOD: 7.5094
+Imagen 2 de la carpeta ./generated_images/image_set_5, JOD: 5.7793
+Imagen 3 de la carpeta ./generated_images/image_set_5, JOD: 5.2856
+Imagen 4 de la carpeta ./generated_images/image_set_5, JOD: 4.8681
+Imagen 5 de la carpeta ./generated_images/image_set_5, JOD: 9.1516
+Imagen 6 de la carpeta ./generated_images/image_set_5, JOD: 8.3098
+Imagen 7 de la carpeta ./generated_images/image_set_5, JOD: 7.4321
+Imagen 8 de la carpeta ./generated_images/image_set_5, JOD: 6.6540
+Imagen 9 de la carpeta ./generated_images/image_set_5, JOD: 9.5780
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_50
+Imagen 10 de la carpeta ./generated_images/image_set_50, JOD: 9.3108
+Imagen 11 de la carpeta ./generated_images/image_set_50, JOD: 8.9715
+Imagen 12 de la carpeta ./generated_images/image_set_50, JOD: 8.5944
+Imagen 13 de la carpeta ./generated_images/image_set_50, JOD: 9.8219
+Imagen 14 de la carpeta ./generated_images/image_set_50, JOD: 9.6416
+Imagen 15 de la carpeta ./generated_images/image_set_50, JOD: 9.4731
+Imagen 16 de la carpeta ./generated_images/image_set_50, JOD: 9.3043
+Imagen 1 de la carpeta ./generated_images/image_set_50, JOD: 7.4933
+Imagen 2 de la carpeta ./generated_images/image_set_50, JOD: 5.8257
+Imagen 3 de la carpeta ./generated_images/image_set_50, JOD: 5.2489
+Imagen 4 de la carpeta ./generated_images/image_set_50, JOD: 4.9316
+Imagen 5 de la carpeta ./generated_images/image_set_50, JOD: 9.1623
+Imagen 6 de la carpeta ./generated_images/image_set_50, JOD: 8.3325
+Imagen 7 de la carpeta ./generated_images/image_set_50, JOD: 7.4291
+Imagen 8 de la carpeta ./generated_images/image_set_50, JOD: 6.6684
+Imagen 9 de la carpeta ./generated_images/image_set_50, JOD: 9.5729
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_51
+Imagen 10 de la carpeta ./generated_images/image_set_51, JOD: 9.3096
+Imagen 11 de la carpeta ./generated_images/image_set_51, JOD: 8.9773
+Imagen 12 de la carpeta ./generated_images/image_set_51, JOD: 8.6218
+Imagen 13 de la carpeta ./generated_images/image_set_51, JOD: 9.8201
+Imagen 14 de la carpeta ./generated_images/image_set_51, JOD: 9.6416
+Imagen 15 de la carpeta ./generated_images/image_set_51, JOD: 9.4744
+Imagen 16 de la carpeta ./generated_images/image_set_51, JOD: 9.3056
+Imagen 1 de la carpeta ./generated_images/image_set_51, JOD: 7.5573
+Imagen 2 de la carpeta ./generated_images/image_set_51, JOD: 5.8984
+Imagen 3 de la carpeta ./generated_images/image_set_51, JOD: 5.1286
+Imagen 4 de la carpeta ./generated_images/image_set_51, JOD: 4.8761
+Imagen 5 de la carpeta ./generated_images/image_set_51, JOD: 9.1750
+Imagen 6 de la carpeta ./generated_images/image_set_51, JOD: 8.3006
+Imagen 7 de la carpeta ./generated_images/image_set_51, JOD: 7.4002
+Imagen 8 de la carpeta ./generated_images/image_set_51, JOD: 6.6105
+Imagen 9 de la carpeta ./generated_images/image_set_51, JOD: 9.5612
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_52
+Imagen 10 de la carpeta ./generated_images/image_set_52, JOD: 9.3076
+Imagen 11 de la carpeta ./generated_images/image_set_52, JOD: 8.9552
+Imagen 12 de la carpeta ./generated_images/image_set_52, JOD: 8.6172
+Imagen 13 de la carpeta ./generated_images/image_set_52, JOD: 9.8155
+Imagen 14 de la carpeta ./generated_images/image_set_52, JOD: 9.6398
+Imagen 15 de la carpeta ./generated_images/image_set_52, JOD: 9.4864
+Imagen 16 de la carpeta ./generated_images/image_set_52, JOD: 9.3144
+Imagen 1 de la carpeta ./generated_images/image_set_52, JOD: 7.4601
+Imagen 2 de la carpeta ./generated_images/image_set_52, JOD: 5.8349
+Imagen 3 de la carpeta ./generated_images/image_set_52, JOD: 5.2113
+Imagen 4 de la carpeta ./generated_images/image_set_52, JOD: 4.9654
+Imagen 5 de la carpeta ./generated_images/image_set_52, JOD: 9.2040
+Imagen 6 de la carpeta ./generated_images/image_set_52, JOD: 8.2916
+Imagen 7 de la carpeta ./generated_images/image_set_52, JOD: 7.3639
+Imagen 8 de la carpeta ./generated_images/image_set_52, JOD: 6.6660
+Imagen 9 de la carpeta ./generated_images/image_set_52, JOD: 9.5723
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_53
+Imagen 10 de la carpeta ./generated_images/image_set_53, JOD: 9.3183
+Imagen 11 de la carpeta ./generated_images/image_set_53, JOD: 8.9812
+Imagen 12 de la carpeta ./generated_images/image_set_53, JOD: 8.6472
+Imagen 13 de la carpeta ./generated_images/image_set_53, JOD: 9.8276
+Imagen 14 de la carpeta ./generated_images/image_set_53, JOD: 9.6558
+Imagen 15 de la carpeta ./generated_images/image_set_53, JOD: 9.4778
+Imagen 16 de la carpeta ./generated_images/image_set_53, JOD: 9.3108
+Imagen 1 de la carpeta ./generated_images/image_set_53, JOD: 7.4634
+Imagen 2 de la carpeta ./generated_images/image_set_53, JOD: 5.8845
+Imagen 3 de la carpeta ./generated_images/image_set_53, JOD: 5.2680
+Imagen 4 de la carpeta ./generated_images/image_set_53, JOD: 4.9725
+Imagen 5 de la carpeta ./generated_images/image_set_53, JOD: 9.1802
+Imagen 6 de la carpeta ./generated_images/image_set_53, JOD: 8.3358
+Imagen 7 de la carpeta ./generated_images/image_set_53, JOD: 7.4221
+Imagen 8 de la carpeta ./generated_images/image_set_53, JOD: 6.6469
+Imagen 9 de la carpeta ./generated_images/image_set_53, JOD: 9.5665
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_54
+Imagen 10 de la carpeta ./generated_images/image_set_54, JOD: 9.3212
+Imagen 11 de la carpeta ./generated_images/image_set_54, JOD: 8.9877
+Imagen 12 de la carpeta ./generated_images/image_set_54, JOD: 8.6116
+Imagen 13 de la carpeta ./generated_images/image_set_54, JOD: 9.8207
+Imagen 14 de la carpeta ./generated_images/image_set_54, JOD: 9.6582
+Imagen 15 de la carpeta ./generated_images/image_set_54, JOD: 9.4727
+Imagen 16 de la carpeta ./generated_images/image_set_54, JOD: 9.2950
+Imagen 1 de la carpeta ./generated_images/image_set_54, JOD: 7.5250
+Imagen 2 de la carpeta ./generated_images/image_set_54, JOD: 5.9619
+Imagen 3 de la carpeta ./generated_images/image_set_54, JOD: 5.3401
+Imagen 4 de la carpeta ./generated_images/image_set_54, JOD: 4.9755
+Imagen 5 de la carpeta ./generated_images/image_set_54, JOD: 9.1523
+Imagen 6 de la carpeta ./generated_images/image_set_54, JOD: 8.3181
+Imagen 7 de la carpeta ./generated_images/image_set_54, JOD: 7.4541
+Imagen 8 de la carpeta ./generated_images/image_set_54, JOD: 6.6713
+Imagen 9 de la carpeta ./generated_images/image_set_54, JOD: 9.5652
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_55
+Imagen 10 de la carpeta ./generated_images/image_set_55, JOD: 9.2963
+Imagen 11 de la carpeta ./generated_images/image_set_55, JOD: 9.0131
+Imagen 12 de la carpeta ./generated_images/image_set_55, JOD: 8.6283
+Imagen 13 de la carpeta ./generated_images/image_set_55, JOD: 9.8196
+Imagen 14 de la carpeta ./generated_images/image_set_55, JOD: 9.6477
+Imagen 15 de la carpeta ./generated_images/image_set_55, JOD: 9.4800
+Imagen 16 de la carpeta ./generated_images/image_set_55, JOD: 9.3012
+Imagen 1 de la carpeta ./generated_images/image_set_55, JOD: 7.5091
+Imagen 2 de la carpeta ./generated_images/image_set_55, JOD: 5.8263
+Imagen 3 de la carpeta ./generated_images/image_set_55, JOD: 5.2711
+Imagen 4 de la carpeta ./generated_images/image_set_55, JOD: 4.9936
+Imagen 5 de la carpeta ./generated_images/image_set_55, JOD: 9.1696
+Imagen 6 de la carpeta ./generated_images/image_set_55, JOD: 8.3309
+Imagen 7 de la carpeta ./generated_images/image_set_55, JOD: 7.4064
+Imagen 8 de la carpeta ./generated_images/image_set_55, JOD: 6.7265
+Imagen 9 de la carpeta ./generated_images/image_set_55, JOD: 9.5971
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_56
+Imagen 10 de la carpeta ./generated_images/image_set_56, JOD: 9.3018
+Imagen 11 de la carpeta ./generated_images/image_set_56, JOD: 8.9658
+Imagen 12 de la carpeta ./generated_images/image_set_56, JOD: 8.6249
+Imagen 13 de la carpeta ./generated_images/image_set_56, JOD: 9.8170
+Imagen 14 de la carpeta ./generated_images/image_set_56, JOD: 9.6403
+Imagen 15 de la carpeta ./generated_images/image_set_56, JOD: 9.4750
+Imagen 16 de la carpeta ./generated_images/image_set_56, JOD: 9.2893
+Imagen 1 de la carpeta ./generated_images/image_set_56, JOD: 7.5224
+Imagen 2 de la carpeta ./generated_images/image_set_56, JOD: 5.8643
+Imagen 3 de la carpeta ./generated_images/image_set_56, JOD: 5.2276
+Imagen 4 de la carpeta ./generated_images/image_set_56, JOD: 4.9785
+Imagen 5 de la carpeta ./generated_images/image_set_56, JOD: 9.1964
+Imagen 6 de la carpeta ./generated_images/image_set_56, JOD: 8.2813
+Imagen 7 de la carpeta ./generated_images/image_set_56, JOD: 7.3710
+Imagen 8 de la carpeta ./generated_images/image_set_56, JOD: 6.6432
+Imagen 9 de la carpeta ./generated_images/image_set_56, JOD: 9.5719
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_57
+Imagen 10 de la carpeta ./generated_images/image_set_57, JOD: 9.3003
+Imagen 11 de la carpeta ./generated_images/image_set_57, JOD: 8.9772
+Imagen 12 de la carpeta ./generated_images/image_set_57, JOD: 8.6338
+Imagen 13 de la carpeta ./generated_images/image_set_57, JOD: 9.8173
+Imagen 14 de la carpeta ./generated_images/image_set_57, JOD: 9.6425
+Imagen 15 de la carpeta ./generated_images/image_set_57, JOD: 9.4746
+Imagen 16 de la carpeta ./generated_images/image_set_57, JOD: 9.3096
+Imagen 1 de la carpeta ./generated_images/image_set_57, JOD: 7.4715
+Imagen 2 de la carpeta ./generated_images/image_set_57, JOD: 5.7943
+Imagen 3 de la carpeta ./generated_images/image_set_57, JOD: 5.1929
+Imagen 4 de la carpeta ./generated_images/image_set_57, JOD: 4.8386
+Imagen 5 de la carpeta ./generated_images/image_set_57, JOD: 9.1897
+Imagen 6 de la carpeta ./generated_images/image_set_57, JOD: 8.3405
+Imagen 7 de la carpeta ./generated_images/image_set_57, JOD: 7.4018
+Imagen 8 de la carpeta ./generated_images/image_set_57, JOD: 6.7012
+Imagen 9 de la carpeta ./generated_images/image_set_57, JOD: 9.5727
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_58
+Imagen 10 de la carpeta ./generated_images/image_set_58, JOD: 9.3195
+Imagen 11 de la carpeta ./generated_images/image_set_58, JOD: 8.9878
+Imagen 12 de la carpeta ./generated_images/image_set_58, JOD: 8.6354
+Imagen 13 de la carpeta ./generated_images/image_set_58, JOD: 9.8121
+Imagen 14 de la carpeta ./generated_images/image_set_58, JOD: 9.6338
+Imagen 15 de la carpeta ./generated_images/image_set_58, JOD: 9.4789
+Imagen 16 de la carpeta ./generated_images/image_set_58, JOD: 9.2979
+Imagen 1 de la carpeta ./generated_images/image_set_58, JOD: 7.4320
+Imagen 2 de la carpeta ./generated_images/image_set_58, JOD: 5.8943
+Imagen 3 de la carpeta ./generated_images/image_set_58, JOD: 5.2167
+Imagen 4 de la carpeta ./generated_images/image_set_58, JOD: 5.0934
+Imagen 5 de la carpeta ./generated_images/image_set_58, JOD: 9.1681
+Imagen 6 de la carpeta ./generated_images/image_set_58, JOD: 8.3062
+Imagen 7 de la carpeta ./generated_images/image_set_58, JOD: 7.4852
+Imagen 8 de la carpeta ./generated_images/image_set_58, JOD: 6.6823
+Imagen 9 de la carpeta ./generated_images/image_set_58, JOD: 9.5756
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_59
+Imagen 10 de la carpeta ./generated_images/image_set_59, JOD: 9.3002
+Imagen 11 de la carpeta ./generated_images/image_set_59, JOD: 8.9657
+Imagen 12 de la carpeta ./generated_images/image_set_59, JOD: 8.6479
+Imagen 13 de la carpeta ./generated_images/image_set_59, JOD: 9.8134
+Imagen 14 de la carpeta ./generated_images/image_set_59, JOD: 9.6346
+Imagen 15 de la carpeta ./generated_images/image_set_59, JOD: 9.4752
+Imagen 16 de la carpeta ./generated_images/image_set_59, JOD: 9.3058
+Imagen 1 de la carpeta ./generated_images/image_set_59, JOD: 7.5650
+Imagen 2 de la carpeta ./generated_images/image_set_59, JOD: 5.9265
+Imagen 3 de la carpeta ./generated_images/image_set_59, JOD: 5.3145
+Imagen 4 de la carpeta ./generated_images/image_set_59, JOD: 4.9372
+Imagen 5 de la carpeta ./generated_images/image_set_59, JOD: 9.1909
+Imagen 6 de la carpeta ./generated_images/image_set_59, JOD: 8.2911
+Imagen 7 de la carpeta ./generated_images/image_set_59, JOD: 7.4033
+Imagen 8 de la carpeta ./generated_images/image_set_59, JOD: 6.7081
+Imagen 9 de la carpeta ./generated_images/image_set_59, JOD: 9.5754
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_6
+Imagen 10 de la carpeta ./generated_images/image_set_6, JOD: 9.3081
+Imagen 11 de la carpeta ./generated_images/image_set_6, JOD: 8.9862
+Imagen 12 de la carpeta ./generated_images/image_set_6, JOD: 8.6266
+Imagen 13 de la carpeta ./generated_images/image_set_6, JOD: 9.8266
+Imagen 14 de la carpeta ./generated_images/image_set_6, JOD: 9.6474
+Imagen 15 de la carpeta ./generated_images/image_set_6, JOD: 9.4814
+Imagen 16 de la carpeta ./generated_images/image_set_6, JOD: 9.3134
+Imagen 1 de la carpeta ./generated_images/image_set_6, JOD: 7.5025
+Imagen 2 de la carpeta ./generated_images/image_set_6, JOD: 5.7837
+Imagen 3 de la carpeta ./generated_images/image_set_6, JOD: 5.3297
+Imagen 4 de la carpeta ./generated_images/image_set_6, JOD: 4.8808
+Imagen 5 de la carpeta ./generated_images/image_set_6, JOD: 9.2003
+Imagen 6 de la carpeta ./generated_images/image_set_6, JOD: 8.3185
+Imagen 7 de la carpeta ./generated_images/image_set_6, JOD: 7.4105
+Imagen 8 de la carpeta ./generated_images/image_set_6, JOD: 6.6459
+Imagen 9 de la carpeta ./generated_images/image_set_6, JOD: 9.5743
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_60
+Imagen 10 de la carpeta ./generated_images/image_set_60, JOD: 9.3036
+Imagen 11 de la carpeta ./generated_images/image_set_60, JOD: 8.9910
+Imagen 12 de la carpeta ./generated_images/image_set_60, JOD: 8.6209
+Imagen 13 de la carpeta ./generated_images/image_set_60, JOD: 9.8111
+Imagen 14 de la carpeta ./generated_images/image_set_60, JOD: 9.6467
+Imagen 15 de la carpeta ./generated_images/image_set_60, JOD: 9.4699
+Imagen 16 de la carpeta ./generated_images/image_set_60, JOD: 9.2867
+Imagen 1 de la carpeta ./generated_images/image_set_60, JOD: 7.5477
+Imagen 2 de la carpeta ./generated_images/image_set_60, JOD: 5.8494
+Imagen 3 de la carpeta ./generated_images/image_set_60, JOD: 5.2711
+Imagen 4 de la carpeta ./generated_images/image_set_60, JOD: 4.8504
+Imagen 5 de la carpeta ./generated_images/image_set_60, JOD: 9.1821
+Imagen 6 de la carpeta ./generated_images/image_set_60, JOD: 8.2471
+Imagen 7 de la carpeta ./generated_images/image_set_60, JOD: 7.4197
+Imagen 8 de la carpeta ./generated_images/image_set_60, JOD: 6.6235
+Imagen 9 de la carpeta ./generated_images/image_set_60, JOD: 9.5733
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_61
+Imagen 10 de la carpeta ./generated_images/image_set_61, JOD: 9.3182
+Imagen 11 de la carpeta ./generated_images/image_set_61, JOD: 8.9712
+Imagen 12 de la carpeta ./generated_images/image_set_61, JOD: 8.6015
+Imagen 13 de la carpeta ./generated_images/image_set_61, JOD: 9.8225
+Imagen 14 de la carpeta ./generated_images/image_set_61, JOD: 9.6496
+Imagen 15 de la carpeta ./generated_images/image_set_61, JOD: 9.4878
+Imagen 16 de la carpeta ./generated_images/image_set_61, JOD: 9.3077
+Imagen 1 de la carpeta ./generated_images/image_set_61, JOD: 7.5418
+Imagen 2 de la carpeta ./generated_images/image_set_61, JOD: 5.8355
+Imagen 3 de la carpeta ./generated_images/image_set_61, JOD: 5.2687
+Imagen 4 de la carpeta ./generated_images/image_set_61, JOD: 4.8853
+Imagen 5 de la carpeta ./generated_images/image_set_61, JOD: 9.1722
+Imagen 6 de la carpeta ./generated_images/image_set_61, JOD: 8.3009
+Imagen 7 de la carpeta ./generated_images/image_set_61, JOD: 7.3835
+Imagen 8 de la carpeta ./generated_images/image_set_61, JOD: 6.6730
+Imagen 9 de la carpeta ./generated_images/image_set_61, JOD: 9.5781
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_62
+Imagen 10 de la carpeta ./generated_images/image_set_62, JOD: 9.2895
+Imagen 11 de la carpeta ./generated_images/image_set_62, JOD: 8.9832
+Imagen 12 de la carpeta ./generated_images/image_set_62, JOD: 8.5959
+Imagen 13 de la carpeta ./generated_images/image_set_62, JOD: 9.8205
+Imagen 14 de la carpeta ./generated_images/image_set_62, JOD: 9.6571
+Imagen 15 de la carpeta ./generated_images/image_set_62, JOD: 9.4784
+Imagen 16 de la carpeta ./generated_images/image_set_62, JOD: 9.2976
+Imagen 1 de la carpeta ./generated_images/image_set_62, JOD: 7.5432
+Imagen 2 de la carpeta ./generated_images/image_set_62, JOD: 5.9134
+Imagen 3 de la carpeta ./generated_images/image_set_62, JOD: 5.1933
+Imagen 4 de la carpeta ./generated_images/image_set_62, JOD: 4.8773
+Imagen 5 de la carpeta ./generated_images/image_set_62, JOD: 9.1803
+Imagen 6 de la carpeta ./generated_images/image_set_62, JOD: 8.3050
+Imagen 7 de la carpeta ./generated_images/image_set_62, JOD: 7.4058
+Imagen 8 de la carpeta ./generated_images/image_set_62, JOD: 6.6603
+Imagen 9 de la carpeta ./generated_images/image_set_62, JOD: 9.5700
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_63
+Imagen 10 de la carpeta ./generated_images/image_set_63, JOD: 9.2973
+Imagen 11 de la carpeta ./generated_images/image_set_63, JOD: 8.9652
+Imagen 12 de la carpeta ./generated_images/image_set_63, JOD: 8.6080
+Imagen 13 de la carpeta ./generated_images/image_set_63, JOD: 9.8214
+Imagen 14 de la carpeta ./generated_images/image_set_63, JOD: 9.6418
+Imagen 15 de la carpeta ./generated_images/image_set_63, JOD: 9.4801
+Imagen 16 de la carpeta ./generated_images/image_set_63, JOD: 9.2961
+Imagen 1 de la carpeta ./generated_images/image_set_63, JOD: 7.5502
+Imagen 2 de la carpeta ./generated_images/image_set_63, JOD: 5.7963
+Imagen 3 de la carpeta ./generated_images/image_set_63, JOD: 5.1410
+Imagen 4 de la carpeta ./generated_images/image_set_63, JOD: 4.9552
+Imagen 5 de la carpeta ./generated_images/image_set_63, JOD: 9.2011
+Imagen 6 de la carpeta ./generated_images/image_set_63, JOD: 8.3013
+Imagen 7 de la carpeta ./generated_images/image_set_63, JOD: 7.4693
+Imagen 8 de la carpeta ./generated_images/image_set_63, JOD: 6.7020
+Imagen 9 de la carpeta ./generated_images/image_set_63, JOD: 9.5732
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_64
+Imagen 10 de la carpeta ./generated_images/image_set_64, JOD: 9.3229
+Imagen 11 de la carpeta ./generated_images/image_set_64, JOD: 8.9826
+Imagen 12 de la carpeta ./generated_images/image_set_64, JOD: 8.6135
+Imagen 13 de la carpeta ./generated_images/image_set_64, JOD: 9.8145
+Imagen 14 de la carpeta ./generated_images/image_set_64, JOD: 9.6438
+Imagen 15 de la carpeta ./generated_images/image_set_64, JOD: 9.4834
+Imagen 16 de la carpeta ./generated_images/image_set_64, JOD: 9.3054
+Imagen 1 de la carpeta ./generated_images/image_set_64, JOD: 7.5897
+Imagen 2 de la carpeta ./generated_images/image_set_64, JOD: 5.9532
+Imagen 3 de la carpeta ./generated_images/image_set_64, JOD: 5.2079
+Imagen 4 de la carpeta ./generated_images/image_set_64, JOD: 4.8758
+Imagen 5 de la carpeta ./generated_images/image_set_64, JOD: 9.1713
+Imagen 6 de la carpeta ./generated_images/image_set_64, JOD: 8.2980
+Imagen 7 de la carpeta ./generated_images/image_set_64, JOD: 7.3944
+Imagen 8 de la carpeta ./generated_images/image_set_64, JOD: 6.6236
+Imagen 9 de la carpeta ./generated_images/image_set_64, JOD: 9.5738
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_65
+Imagen 10 de la carpeta ./generated_images/image_set_65, JOD: 9.3137
+Imagen 11 de la carpeta ./generated_images/image_set_65, JOD: 8.9772
+Imagen 12 de la carpeta ./generated_images/image_set_65, JOD: 8.6069
+Imagen 13 de la carpeta ./generated_images/image_set_65, JOD: 9.8127
+Imagen 14 de la carpeta ./generated_images/image_set_65, JOD: 9.6492
+Imagen 15 de la carpeta ./generated_images/image_set_65, JOD: 9.4694
+Imagen 16 de la carpeta ./generated_images/image_set_65, JOD: 9.3092
+Imagen 1 de la carpeta ./generated_images/image_set_65, JOD: 7.4911
+Imagen 2 de la carpeta ./generated_images/image_set_65, JOD: 6.0194
+Imagen 3 de la carpeta ./generated_images/image_set_65, JOD: 5.1549
+Imagen 4 de la carpeta ./generated_images/image_set_65, JOD: 4.8967
+Imagen 5 de la carpeta ./generated_images/image_set_65, JOD: 9.1830
+Imagen 6 de la carpeta ./generated_images/image_set_65, JOD: 8.3618
+Imagen 7 de la carpeta ./generated_images/image_set_65, JOD: 7.4706
+Imagen 8 de la carpeta ./generated_images/image_set_65, JOD: 6.7424
+Imagen 9 de la carpeta ./generated_images/image_set_65, JOD: 9.5827
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_66
+Imagen 10 de la carpeta ./generated_images/image_set_66, JOD: 9.3182
+Imagen 11 de la carpeta ./generated_images/image_set_66, JOD: 8.9844
+Imagen 12 de la carpeta ./generated_images/image_set_66, JOD: 8.6091
+Imagen 13 de la carpeta ./generated_images/image_set_66, JOD: 9.8258
+Imagen 14 de la carpeta ./generated_images/image_set_66, JOD: 9.6432
+Imagen 15 de la carpeta ./generated_images/image_set_66, JOD: 9.4827
+Imagen 16 de la carpeta ./generated_images/image_set_66, JOD: 9.3032
+Imagen 1 de la carpeta ./generated_images/image_set_66, JOD: 7.5301
+Imagen 2 de la carpeta ./generated_images/image_set_66, JOD: 5.9044
+Imagen 3 de la carpeta ./generated_images/image_set_66, JOD: 5.1660
+Imagen 4 de la carpeta ./generated_images/image_set_66, JOD: 4.9081
+Imagen 5 de la carpeta ./generated_images/image_set_66, JOD: 9.1969
+Imagen 6 de la carpeta ./generated_images/image_set_66, JOD: 8.2963
+Imagen 7 de la carpeta ./generated_images/image_set_66, JOD: 7.4120
+Imagen 8 de la carpeta ./generated_images/image_set_66, JOD: 6.6947
+Imagen 9 de la carpeta ./generated_images/image_set_66, JOD: 9.5659
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_67
+Imagen 10 de la carpeta ./generated_images/image_set_67, JOD: 9.3000
+Imagen 11 de la carpeta ./generated_images/image_set_67, JOD: 8.9835
+Imagen 12 de la carpeta ./generated_images/image_set_67, JOD: 8.6157
+Imagen 13 de la carpeta ./generated_images/image_set_67, JOD: 9.8183
+Imagen 14 de la carpeta ./generated_images/image_set_67, JOD: 9.6503
+Imagen 15 de la carpeta ./generated_images/image_set_67, JOD: 9.4844
+Imagen 16 de la carpeta ./generated_images/image_set_67, JOD: 9.3040
+Imagen 1 de la carpeta ./generated_images/image_set_67, JOD: 7.5412
+Imagen 2 de la carpeta ./generated_images/image_set_67, JOD: 5.9393
+Imagen 3 de la carpeta ./generated_images/image_set_67, JOD: 5.3754
+Imagen 4 de la carpeta ./generated_images/image_set_67, JOD: 4.8388
+Imagen 5 de la carpeta ./generated_images/image_set_67, JOD: 9.1742
+Imagen 6 de la carpeta ./generated_images/image_set_67, JOD: 8.2904
+Imagen 7 de la carpeta ./generated_images/image_set_67, JOD: 7.4194
+Imagen 8 de la carpeta ./generated_images/image_set_67, JOD: 6.6402
+Imagen 9 de la carpeta ./generated_images/image_set_67, JOD: 9.5719
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_68
+Imagen 10 de la carpeta ./generated_images/image_set_68, JOD: 9.3030
+Imagen 11 de la carpeta ./generated_images/image_set_68, JOD: 8.9790
+Imagen 12 de la carpeta ./generated_images/image_set_68, JOD: 8.6394
+Imagen 13 de la carpeta ./generated_images/image_set_68, JOD: 9.8095
+Imagen 14 de la carpeta ./generated_images/image_set_68, JOD: 9.6484
+Imagen 15 de la carpeta ./generated_images/image_set_68, JOD: 9.4757
+Imagen 16 de la carpeta ./generated_images/image_set_68, JOD: 9.3031
+Imagen 1 de la carpeta ./generated_images/image_set_68, JOD: 7.4934
+Imagen 2 de la carpeta ./generated_images/image_set_68, JOD: 5.9541
+Imagen 3 de la carpeta ./generated_images/image_set_68, JOD: 5.2567
+Imagen 4 de la carpeta ./generated_images/image_set_68, JOD: 4.9523
+Imagen 5 de la carpeta ./generated_images/image_set_68, JOD: 9.1955
+Imagen 6 de la carpeta ./generated_images/image_set_68, JOD: 8.3127
+Imagen 7 de la carpeta ./generated_images/image_set_68, JOD: 7.4302
+Imagen 8 de la carpeta ./generated_images/image_set_68, JOD: 6.6094
+Imagen 9 de la carpeta ./generated_images/image_set_68, JOD: 9.5708
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_69
+Imagen 10 de la carpeta ./generated_images/image_set_69, JOD: 9.2931
+Imagen 11 de la carpeta ./generated_images/image_set_69, JOD: 8.9784
+Imagen 12 de la carpeta ./generated_images/image_set_69, JOD: 8.6291
+Imagen 13 de la carpeta ./generated_images/image_set_69, JOD: 9.8089
+Imagen 14 de la carpeta ./generated_images/image_set_69, JOD: 9.6510
+Imagen 15 de la carpeta ./generated_images/image_set_69, JOD: 9.4734
+Imagen 16 de la carpeta ./generated_images/image_set_69, JOD: 9.3011
+Imagen 1 de la carpeta ./generated_images/image_set_69, JOD: 7.5296
+Imagen 2 de la carpeta ./generated_images/image_set_69, JOD: 5.9676
+Imagen 3 de la carpeta ./generated_images/image_set_69, JOD: 5.1671
+Imagen 4 de la carpeta ./generated_images/image_set_69, JOD: 4.9070
+Imagen 5 de la carpeta ./generated_images/image_set_69, JOD: 9.1921
+Imagen 6 de la carpeta ./generated_images/image_set_69, JOD: 8.2978
+Imagen 7 de la carpeta ./generated_images/image_set_69, JOD: 7.3879
+Imagen 8 de la carpeta ./generated_images/image_set_69, JOD: 6.6191
+Imagen 9 de la carpeta ./generated_images/image_set_69, JOD: 9.5669
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_7
+Imagen 10 de la carpeta ./generated_images/image_set_7, JOD: 9.3170
+Imagen 11 de la carpeta ./generated_images/image_set_7, JOD: 8.9685
+Imagen 12 de la carpeta ./generated_images/image_set_7, JOD: 8.6278
+Imagen 13 de la carpeta ./generated_images/image_set_7, JOD: 9.8144
+Imagen 14 de la carpeta ./generated_images/image_set_7, JOD: 9.6465
+Imagen 15 de la carpeta ./generated_images/image_set_7, JOD: 9.4713
+Imagen 16 de la carpeta ./generated_images/image_set_7, JOD: 9.3058
+Imagen 1 de la carpeta ./generated_images/image_set_7, JOD: 7.4998
+Imagen 2 de la carpeta ./generated_images/image_set_7, JOD: 5.9850
+Imagen 3 de la carpeta ./generated_images/image_set_7, JOD: 5.2912
+Imagen 4 de la carpeta ./generated_images/image_set_7, JOD: 4.9811
+Imagen 5 de la carpeta ./generated_images/image_set_7, JOD: 9.2147
+Imagen 6 de la carpeta ./generated_images/image_set_7, JOD: 8.2512
+Imagen 7 de la carpeta ./generated_images/image_set_7, JOD: 7.4325
+Imagen 8 de la carpeta ./generated_images/image_set_7, JOD: 6.6956
+Imagen 9 de la carpeta ./generated_images/image_set_7, JOD: 9.5854
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_70
+Imagen 10 de la carpeta ./generated_images/image_set_70, JOD: 9.3191
+Imagen 11 de la carpeta ./generated_images/image_set_70, JOD: 8.9782
+Imagen 12 de la carpeta ./generated_images/image_set_70, JOD: 8.6031
+Imagen 13 de la carpeta ./generated_images/image_set_70, JOD: 9.8207
+Imagen 14 de la carpeta ./generated_images/image_set_70, JOD: 9.6488
+Imagen 15 de la carpeta ./generated_images/image_set_70, JOD: 9.4799
+Imagen 16 de la carpeta ./generated_images/image_set_70, JOD: 9.2986
+Imagen 1 de la carpeta ./generated_images/image_set_70, JOD: 7.5606
+Imagen 2 de la carpeta ./generated_images/image_set_70, JOD: 5.9366
+Imagen 3 de la carpeta ./generated_images/image_set_70, JOD: 5.2100
+Imagen 4 de la carpeta ./generated_images/image_set_70, JOD: 4.8872
+Imagen 5 de la carpeta ./generated_images/image_set_70, JOD: 9.1846
+Imagen 6 de la carpeta ./generated_images/image_set_70, JOD: 8.3534
+Imagen 7 de la carpeta ./generated_images/image_set_70, JOD: 7.4006
+Imagen 8 de la carpeta ./generated_images/image_set_70, JOD: 6.6910
+Imagen 9 de la carpeta ./generated_images/image_set_70, JOD: 9.5673
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_71
+Imagen 10 de la carpeta ./generated_images/image_set_71, JOD: 9.3123
+Imagen 11 de la carpeta ./generated_images/image_set_71, JOD: 8.9719
+Imagen 12 de la carpeta ./generated_images/image_set_71, JOD: 8.6089
+Imagen 13 de la carpeta ./generated_images/image_set_71, JOD: 9.8195
+Imagen 14 de la carpeta ./generated_images/image_set_71, JOD: 9.6435
+Imagen 15 de la carpeta ./generated_images/image_set_71, JOD: 9.4791
+Imagen 16 de la carpeta ./generated_images/image_set_71, JOD: 9.3128
+Imagen 1 de la carpeta ./generated_images/image_set_71, JOD: 7.4852
+Imagen 2 de la carpeta ./generated_images/image_set_71, JOD: 5.8980
+Imagen 3 de la carpeta ./generated_images/image_set_71, JOD: 5.1530
+Imagen 4 de la carpeta ./generated_images/image_set_71, JOD: 4.8205
+Imagen 5 de la carpeta ./generated_images/image_set_71, JOD: 9.1850
+Imagen 6 de la carpeta ./generated_images/image_set_71, JOD: 8.2821
+Imagen 7 de la carpeta ./generated_images/image_set_71, JOD: 7.4456
+Imagen 8 de la carpeta ./generated_images/image_set_71, JOD: 6.6932
+Imagen 9 de la carpeta ./generated_images/image_set_71, JOD: 9.5858
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_72
+Imagen 10 de la carpeta ./generated_images/image_set_72, JOD: 9.3227
+Imagen 11 de la carpeta ./generated_images/image_set_72, JOD: 8.9868
+Imagen 12 de la carpeta ./generated_images/image_set_72, JOD: 8.6204
+Imagen 13 de la carpeta ./generated_images/image_set_72, JOD: 9.8181
+Imagen 14 de la carpeta ./generated_images/image_set_72, JOD: 9.6546
+Imagen 15 de la carpeta ./generated_images/image_set_72, JOD: 9.4753
+Imagen 16 de la carpeta ./generated_images/image_set_72, JOD: 9.3025
+Imagen 1 de la carpeta ./generated_images/image_set_72, JOD: 7.3984
+Imagen 2 de la carpeta ./generated_images/image_set_72, JOD: 5.9046
+Imagen 3 de la carpeta ./generated_images/image_set_72, JOD: 5.2548
+Imagen 4 de la carpeta ./generated_images/image_set_72, JOD: 4.9043
+Imagen 5 de la carpeta ./generated_images/image_set_72, JOD: 9.1640
+Imagen 6 de la carpeta ./generated_images/image_set_72, JOD: 8.3209
+Imagen 7 de la carpeta ./generated_images/image_set_72, JOD: 7.4851
+Imagen 8 de la carpeta ./generated_images/image_set_72, JOD: 6.7039
+Imagen 9 de la carpeta ./generated_images/image_set_72, JOD: 9.5839
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_73
+Imagen 10 de la carpeta ./generated_images/image_set_73, JOD: 9.3106
+Imagen 11 de la carpeta ./generated_images/image_set_73, JOD: 8.9811
+Imagen 12 de la carpeta ./generated_images/image_set_73, JOD: 8.6114
+Imagen 13 de la carpeta ./generated_images/image_set_73, JOD: 9.8175
+Imagen 14 de la carpeta ./generated_images/image_set_73, JOD: 9.6502
+Imagen 15 de la carpeta ./generated_images/image_set_73, JOD: 9.4871
+Imagen 16 de la carpeta ./generated_images/image_set_73, JOD: 9.2970
+Imagen 1 de la carpeta ./generated_images/image_set_73, JOD: 7.4968
+Imagen 2 de la carpeta ./generated_images/image_set_73, JOD: 5.9404
+Imagen 3 de la carpeta ./generated_images/image_set_73, JOD: 5.2466
+Imagen 4 de la carpeta ./generated_images/image_set_73, JOD: 4.9836
+Imagen 5 de la carpeta ./generated_images/image_set_73, JOD: 9.1600
+Imagen 6 de la carpeta ./generated_images/image_set_73, JOD: 8.2904
+Imagen 7 de la carpeta ./generated_images/image_set_73, JOD: 7.3840
+Imagen 8 de la carpeta ./generated_images/image_set_73, JOD: 6.6846
+Imagen 9 de la carpeta ./generated_images/image_set_73, JOD: 9.5693
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_74
+Imagen 10 de la carpeta ./generated_images/image_set_74, JOD: 9.3126
+Imagen 11 de la carpeta ./generated_images/image_set_74, JOD: 8.9582
+Imagen 12 de la carpeta ./generated_images/image_set_74, JOD: 8.6331
+Imagen 13 de la carpeta ./generated_images/image_set_74, JOD: 9.8124
+Imagen 14 de la carpeta ./generated_images/image_set_74, JOD: 9.6409
+Imagen 15 de la carpeta ./generated_images/image_set_74, JOD: 9.4798
+Imagen 16 de la carpeta ./generated_images/image_set_74, JOD: 9.2948
+Imagen 1 de la carpeta ./generated_images/image_set_74, JOD: 7.5141
+Imagen 2 de la carpeta ./generated_images/image_set_74, JOD: 5.8621
+Imagen 3 de la carpeta ./generated_images/image_set_74, JOD: 5.3249
+Imagen 4 de la carpeta ./generated_images/image_set_74, JOD: 5.0212
+Imagen 5 de la carpeta ./generated_images/image_set_74, JOD: 9.1606
+Imagen 6 de la carpeta ./generated_images/image_set_74, JOD: 8.2975
+Imagen 7 de la carpeta ./generated_images/image_set_74, JOD: 7.3770
+Imagen 8 de la carpeta ./generated_images/image_set_74, JOD: 6.6328
+Imagen 9 de la carpeta ./generated_images/image_set_74, JOD: 9.5729
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_75
+Imagen 10 de la carpeta ./generated_images/image_set_75, JOD: 9.3179
+Imagen 11 de la carpeta ./generated_images/image_set_75, JOD: 8.9420
+Imagen 12 de la carpeta ./generated_images/image_set_75, JOD: 8.6187
+Imagen 13 de la carpeta ./generated_images/image_set_75, JOD: 9.8089
+Imagen 14 de la carpeta ./generated_images/image_set_75, JOD: 9.6459
+Imagen 15 de la carpeta ./generated_images/image_set_75, JOD: 9.4831
+Imagen 16 de la carpeta ./generated_images/image_set_75, JOD: 9.2980
+Imagen 1 de la carpeta ./generated_images/image_set_75, JOD: 7.4541
+Imagen 2 de la carpeta ./generated_images/image_set_75, JOD: 5.8655
+Imagen 3 de la carpeta ./generated_images/image_set_75, JOD: 5.1894
+Imagen 4 de la carpeta ./generated_images/image_set_75, JOD: 5.0086
+Imagen 5 de la carpeta ./generated_images/image_set_75, JOD: 9.2005
+Imagen 6 de la carpeta ./generated_images/image_set_75, JOD: 8.2837
+Imagen 7 de la carpeta ./generated_images/image_set_75, JOD: 7.5020
+Imagen 8 de la carpeta ./generated_images/image_set_75, JOD: 6.6636
+Imagen 9 de la carpeta ./generated_images/image_set_75, JOD: 9.5825
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_76
+Imagen 10 de la carpeta ./generated_images/image_set_76, JOD: 9.3004
+Imagen 11 de la carpeta ./generated_images/image_set_76, JOD: 8.9931
+Imagen 12 de la carpeta ./generated_images/image_set_76, JOD: 8.6365
+Imagen 13 de la carpeta ./generated_images/image_set_76, JOD: 9.8195
+Imagen 14 de la carpeta ./generated_images/image_set_76, JOD: 9.6465
+Imagen 15 de la carpeta ./generated_images/image_set_76, JOD: 9.4907
+Imagen 16 de la carpeta ./generated_images/image_set_76, JOD: 9.3049
+Imagen 1 de la carpeta ./generated_images/image_set_76, JOD: 7.4866
+Imagen 2 de la carpeta ./generated_images/image_set_76, JOD: 5.8833
+Imagen 3 de la carpeta ./generated_images/image_set_76, JOD: 5.2335
+Imagen 4 de la carpeta ./generated_images/image_set_76, JOD: 4.8705
+Imagen 5 de la carpeta ./generated_images/image_set_76, JOD: 9.1835
+Imagen 6 de la carpeta ./generated_images/image_set_76, JOD: 8.3294
+Imagen 7 de la carpeta ./generated_images/image_set_76, JOD: 7.3941
+Imagen 8 de la carpeta ./generated_images/image_set_76, JOD: 6.6308
+Imagen 9 de la carpeta ./generated_images/image_set_76, JOD: 9.5840
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_77
+Imagen 10 de la carpeta ./generated_images/image_set_77, JOD: 9.3296
+Imagen 11 de la carpeta ./generated_images/image_set_77, JOD: 8.9862
+Imagen 12 de la carpeta ./generated_images/image_set_77, JOD: 8.6106
+Imagen 13 de la carpeta ./generated_images/image_set_77, JOD: 9.8224
+Imagen 14 de la carpeta ./generated_images/image_set_77, JOD: 9.6408
+Imagen 15 de la carpeta ./generated_images/image_set_77, JOD: 9.4752
+Imagen 16 de la carpeta ./generated_images/image_set_77, JOD: 9.3280
+Imagen 1 de la carpeta ./generated_images/image_set_77, JOD: 7.5463
+Imagen 2 de la carpeta ./generated_images/image_set_77, JOD: 5.9243
+Imagen 3 de la carpeta ./generated_images/image_set_77, JOD: 5.2105
+Imagen 4 de la carpeta ./generated_images/image_set_77, JOD: 4.9614
+Imagen 5 de la carpeta ./generated_images/image_set_77, JOD: 9.1910
+Imagen 6 de la carpeta ./generated_images/image_set_77, JOD: 8.3551
+Imagen 7 de la carpeta ./generated_images/image_set_77, JOD: 7.3826
+Imagen 8 de la carpeta ./generated_images/image_set_77, JOD: 6.6549
+Imagen 9 de la carpeta ./generated_images/image_set_77, JOD: 9.5730
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_78
+Imagen 10 de la carpeta ./generated_images/image_set_78, JOD: 9.3129
+Imagen 11 de la carpeta ./generated_images/image_set_78, JOD: 8.9890
+Imagen 12 de la carpeta ./generated_images/image_set_78, JOD: 8.6248
+Imagen 13 de la carpeta ./generated_images/image_set_78, JOD: 9.8211
+Imagen 14 de la carpeta ./generated_images/image_set_78, JOD: 9.6463
+Imagen 15 de la carpeta ./generated_images/image_set_78, JOD: 9.4875
+Imagen 16 de la carpeta ./generated_images/image_set_78, JOD: 9.3065
+Imagen 1 de la carpeta ./generated_images/image_set_78, JOD: 7.5038
+Imagen 2 de la carpeta ./generated_images/image_set_78, JOD: 5.8793
+Imagen 3 de la carpeta ./generated_images/image_set_78, JOD: 5.2429
+Imagen 4 de la carpeta ./generated_images/image_set_78, JOD: 4.8896
+Imagen 5 de la carpeta ./generated_images/image_set_78, JOD: 9.1580
+Imagen 6 de la carpeta ./generated_images/image_set_78, JOD: 8.3006
+Imagen 7 de la carpeta ./generated_images/image_set_78, JOD: 7.4397
+Imagen 8 de la carpeta ./generated_images/image_set_78, JOD: 6.6666
+Imagen 9 de la carpeta ./generated_images/image_set_78, JOD: 9.5766
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_79
+Imagen 10 de la carpeta ./generated_images/image_set_79, JOD: 9.3230
+Imagen 11 de la carpeta ./generated_images/image_set_79, JOD: 8.9770
+Imagen 12 de la carpeta ./generated_images/image_set_79, JOD: 8.5832
+Imagen 13 de la carpeta ./generated_images/image_set_79, JOD: 9.8225
+Imagen 14 de la carpeta ./generated_images/image_set_79, JOD: 9.6433
+Imagen 15 de la carpeta ./generated_images/image_set_79, JOD: 9.4671
+Imagen 16 de la carpeta ./generated_images/image_set_79, JOD: 9.3007
+Imagen 1 de la carpeta ./generated_images/image_set_79, JOD: 7.5500
+Imagen 2 de la carpeta ./generated_images/image_set_79, JOD: 5.9154
+Imagen 3 de la carpeta ./generated_images/image_set_79, JOD: 5.2043
+Imagen 4 de la carpeta ./generated_images/image_set_79, JOD: 5.0104
+Imagen 5 de la carpeta ./generated_images/image_set_79, JOD: 9.1996
+Imagen 6 de la carpeta ./generated_images/image_set_79, JOD: 8.2723
+Imagen 7 de la carpeta ./generated_images/image_set_79, JOD: 7.4701
+Imagen 8 de la carpeta ./generated_images/image_set_79, JOD: 6.7186
+Imagen 9 de la carpeta ./generated_images/image_set_79, JOD: 9.5659
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_8
+Imagen 10 de la carpeta ./generated_images/image_set_8, JOD: 9.2959
+Imagen 11 de la carpeta ./generated_images/image_set_8, JOD: 8.9773
+Imagen 12 de la carpeta ./generated_images/image_set_8, JOD: 8.5867
+Imagen 13 de la carpeta ./generated_images/image_set_8, JOD: 9.8143
+Imagen 14 de la carpeta ./generated_images/image_set_8, JOD: 9.6416
+Imagen 15 de la carpeta ./generated_images/image_set_8, JOD: 9.4819
+Imagen 16 de la carpeta ./generated_images/image_set_8, JOD: 9.3051
+Imagen 1 de la carpeta ./generated_images/image_set_8, JOD: 7.5441
+Imagen 2 de la carpeta ./generated_images/image_set_8, JOD: 5.9400
+Imagen 3 de la carpeta ./generated_images/image_set_8, JOD: 5.1537
+Imagen 4 de la carpeta ./generated_images/image_set_8, JOD: 4.8885
+Imagen 5 de la carpeta ./generated_images/image_set_8, JOD: 9.1870
+Imagen 6 de la carpeta ./generated_images/image_set_8, JOD: 8.2949
+Imagen 7 de la carpeta ./generated_images/image_set_8, JOD: 7.3837
+Imagen 8 de la carpeta ./generated_images/image_set_8, JOD: 6.7392
+Imagen 9 de la carpeta ./generated_images/image_set_8, JOD: 9.5777
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_80
+Imagen 10 de la carpeta ./generated_images/image_set_80, JOD: 9.3349
+Imagen 11 de la carpeta ./generated_images/image_set_80, JOD: 8.9756
+Imagen 12 de la carpeta ./generated_images/image_set_80, JOD: 8.6310
+Imagen 13 de la carpeta ./generated_images/image_set_80, JOD: 9.8200
+Imagen 14 de la carpeta ./generated_images/image_set_80, JOD: 9.6488
+Imagen 15 de la carpeta ./generated_images/image_set_80, JOD: 9.4684
+Imagen 16 de la carpeta ./generated_images/image_set_80, JOD: 9.2955
+Imagen 1 de la carpeta ./generated_images/image_set_80, JOD: 7.5097
+Imagen 2 de la carpeta ./generated_images/image_set_80, JOD: 5.9041
+Imagen 3 de la carpeta ./generated_images/image_set_80, JOD: 5.1859
+Imagen 4 de la carpeta ./generated_images/image_set_80, JOD: 4.8708
+Imagen 5 de la carpeta ./generated_images/image_set_80, JOD: 9.1944
+Imagen 6 de la carpeta ./generated_images/image_set_80, JOD: 8.3208
+Imagen 7 de la carpeta ./generated_images/image_set_80, JOD: 7.3811
+Imagen 8 de la carpeta ./generated_images/image_set_80, JOD: 6.6649
+Imagen 9 de la carpeta ./generated_images/image_set_80, JOD: 9.5747
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_81
+Imagen 10 de la carpeta ./generated_images/image_set_81, JOD: 9.3207
+Imagen 11 de la carpeta ./generated_images/image_set_81, JOD: 8.9899
+Imagen 12 de la carpeta ./generated_images/image_set_81, JOD: 8.6153
+Imagen 13 de la carpeta ./generated_images/image_set_81, JOD: 9.8153
+Imagen 14 de la carpeta ./generated_images/image_set_81, JOD: 9.6526
+Imagen 15 de la carpeta ./generated_images/image_set_81, JOD: 9.4837
+Imagen 16 de la carpeta ./generated_images/image_set_81, JOD: 9.3230
+Imagen 1 de la carpeta ./generated_images/image_set_81, JOD: 7.5290
+Imagen 2 de la carpeta ./generated_images/image_set_81, JOD: 5.8112
+Imagen 3 de la carpeta ./generated_images/image_set_81, JOD: 5.2944
+Imagen 4 de la carpeta ./generated_images/image_set_81, JOD: 4.8679
+Imagen 5 de la carpeta ./generated_images/image_set_81, JOD: 9.1774
+Imagen 6 de la carpeta ./generated_images/image_set_81, JOD: 8.3239
+Imagen 7 de la carpeta ./generated_images/image_set_81, JOD: 7.4152
+Imagen 8 de la carpeta ./generated_images/image_set_81, JOD: 6.6429
+Imagen 9 de la carpeta ./generated_images/image_set_81, JOD: 9.5743
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_82
+Imagen 10 de la carpeta ./generated_images/image_set_82, JOD: 9.3133
+Imagen 11 de la carpeta ./generated_images/image_set_82, JOD: 8.9591
+Imagen 12 de la carpeta ./generated_images/image_set_82, JOD: 8.6066
+Imagen 13 de la carpeta ./generated_images/image_set_82, JOD: 9.8246
+Imagen 14 de la carpeta ./generated_images/image_set_82, JOD: 9.6433
+Imagen 15 de la carpeta ./generated_images/image_set_82, JOD: 9.4733
+Imagen 16 de la carpeta ./generated_images/image_set_82, JOD: 9.2780
+Imagen 1 de la carpeta ./generated_images/image_set_82, JOD: 7.4326
+Imagen 2 de la carpeta ./generated_images/image_set_82, JOD: 5.8107
+Imagen 3 de la carpeta ./generated_images/image_set_82, JOD: 5.2193
+Imagen 4 de la carpeta ./generated_images/image_set_82, JOD: 4.9353
+Imagen 5 de la carpeta ./generated_images/image_set_82, JOD: 9.1666
+Imagen 6 de la carpeta ./generated_images/image_set_82, JOD: 8.3465
+Imagen 7 de la carpeta ./generated_images/image_set_82, JOD: 7.4038
+Imagen 8 de la carpeta ./generated_images/image_set_82, JOD: 6.6169
+Imagen 9 de la carpeta ./generated_images/image_set_82, JOD: 9.5661
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_83
+Imagen 10 de la carpeta ./generated_images/image_set_83, JOD: 9.3161
+Imagen 11 de la carpeta ./generated_images/image_set_83, JOD: 8.9693
+Imagen 12 de la carpeta ./generated_images/image_set_83, JOD: 8.6286
+Imagen 13 de la carpeta ./generated_images/image_set_83, JOD: 9.8192
+Imagen 14 de la carpeta ./generated_images/image_set_83, JOD: 9.6419
+Imagen 15 de la carpeta ./generated_images/image_set_83, JOD: 9.4811
+Imagen 16 de la carpeta ./generated_images/image_set_83, JOD: 9.2938
+Imagen 1 de la carpeta ./generated_images/image_set_83, JOD: 7.5630
+Imagen 2 de la carpeta ./generated_images/image_set_83, JOD: 5.8820
+Imagen 3 de la carpeta ./generated_images/image_set_83, JOD: 5.2707
+Imagen 4 de la carpeta ./generated_images/image_set_83, JOD: 4.8819
+Imagen 5 de la carpeta ./generated_images/image_set_83, JOD: 9.1932
+Imagen 6 de la carpeta ./generated_images/image_set_83, JOD: 8.3234
+Imagen 7 de la carpeta ./generated_images/image_set_83, JOD: 7.4365
+Imagen 8 de la carpeta ./generated_images/image_set_83, JOD: 6.6351
+Imagen 9 de la carpeta ./generated_images/image_set_83, JOD: 9.5791
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_84
+Imagen 10 de la carpeta ./generated_images/image_set_84, JOD: 9.3123
+Imagen 11 de la carpeta ./generated_images/image_set_84, JOD: 8.9585
+Imagen 12 de la carpeta ./generated_images/image_set_84, JOD: 8.6141
+Imagen 13 de la carpeta ./generated_images/image_set_84, JOD: 9.8205
+Imagen 14 de la carpeta ./generated_images/image_set_84, JOD: 9.6469
+Imagen 15 de la carpeta ./generated_images/image_set_84, JOD: 9.4735
+Imagen 16 de la carpeta ./generated_images/image_set_84, JOD: 9.3010
+Imagen 1 de la carpeta ./generated_images/image_set_84, JOD: 7.4902
+Imagen 2 de la carpeta ./generated_images/image_set_84, JOD: 5.9947
+Imagen 3 de la carpeta ./generated_images/image_set_84, JOD: 5.2537
+Imagen 4 de la carpeta ./generated_images/image_set_84, JOD: 4.7817
+Imagen 5 de la carpeta ./generated_images/image_set_84, JOD: 9.2026
+Imagen 6 de la carpeta ./generated_images/image_set_84, JOD: 8.3154
+Imagen 7 de la carpeta ./generated_images/image_set_84, JOD: 7.4643
+Imagen 8 de la carpeta ./generated_images/image_set_84, JOD: 6.6219
+Imagen 9 de la carpeta ./generated_images/image_set_84, JOD: 9.5922
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_85
+Imagen 10 de la carpeta ./generated_images/image_set_85, JOD: 9.3007
+Imagen 11 de la carpeta ./generated_images/image_set_85, JOD: 8.9660
+Imagen 12 de la carpeta ./generated_images/image_set_85, JOD: 8.6299
+Imagen 13 de la carpeta ./generated_images/image_set_85, JOD: 9.8221
+Imagen 14 de la carpeta ./generated_images/image_set_85, JOD: 9.6480
+Imagen 15 de la carpeta ./generated_images/image_set_85, JOD: 9.4771
+Imagen 16 de la carpeta ./generated_images/image_set_85, JOD: 9.3115
+Imagen 1 de la carpeta ./generated_images/image_set_85, JOD: 7.5615
+Imagen 2 de la carpeta ./generated_images/image_set_85, JOD: 5.8451
+Imagen 3 de la carpeta ./generated_images/image_set_85, JOD: 5.3081
+Imagen 4 de la carpeta ./generated_images/image_set_85, JOD: 4.9892
+Imagen 5 de la carpeta ./generated_images/image_set_85, JOD: 9.2022
+Imagen 6 de la carpeta ./generated_images/image_set_85, JOD: 8.3429
+Imagen 7 de la carpeta ./generated_images/image_set_85, JOD: 7.4407
+Imagen 8 de la carpeta ./generated_images/image_set_85, JOD: 6.6368
+Imagen 9 de la carpeta ./generated_images/image_set_85, JOD: 9.5802
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_86
+Imagen 10 de la carpeta ./generated_images/image_set_86, JOD: 9.3083
+Imagen 11 de la carpeta ./generated_images/image_set_86, JOD: 8.9781
+Imagen 12 de la carpeta ./generated_images/image_set_86, JOD: 8.6061
+Imagen 13 de la carpeta ./generated_images/image_set_86, JOD: 9.8153
+Imagen 14 de la carpeta ./generated_images/image_set_86, JOD: 9.6508
+Imagen 15 de la carpeta ./generated_images/image_set_86, JOD: 9.4871
+Imagen 16 de la carpeta ./generated_images/image_set_86, JOD: 9.3092
+Imagen 1 de la carpeta ./generated_images/image_set_86, JOD: 7.5376
+Imagen 2 de la carpeta ./generated_images/image_set_86, JOD: 5.9062
+Imagen 3 de la carpeta ./generated_images/image_set_86, JOD: 5.1670
+Imagen 4 de la carpeta ./generated_images/image_set_86, JOD: 4.9507
+Imagen 5 de la carpeta ./generated_images/image_set_86, JOD: 9.1922
+Imagen 6 de la carpeta ./generated_images/image_set_86, JOD: 8.2952
+Imagen 7 de la carpeta ./generated_images/image_set_86, JOD: 7.4206
+Imagen 8 de la carpeta ./generated_images/image_set_86, JOD: 6.6869
+Imagen 9 de la carpeta ./generated_images/image_set_86, JOD: 9.5676
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_87
+Imagen 10 de la carpeta ./generated_images/image_set_87, JOD: 9.3014
+Imagen 11 de la carpeta ./generated_images/image_set_87, JOD: 8.9971
+Imagen 12 de la carpeta ./generated_images/image_set_87, JOD: 8.6344
+Imagen 13 de la carpeta ./generated_images/image_set_87, JOD: 9.8095
+Imagen 14 de la carpeta ./generated_images/image_set_87, JOD: 9.6481
+Imagen 15 de la carpeta ./generated_images/image_set_87, JOD: 9.4756
+Imagen 16 de la carpeta ./generated_images/image_set_87, JOD: 9.2983
+Imagen 1 de la carpeta ./generated_images/image_set_87, JOD: 7.4768
+Imagen 2 de la carpeta ./generated_images/image_set_87, JOD: 5.8885
+Imagen 3 de la carpeta ./generated_images/image_set_87, JOD: 5.2461
+Imagen 4 de la carpeta ./generated_images/image_set_87, JOD: 4.9373
+Imagen 5 de la carpeta ./generated_images/image_set_87, JOD: 9.1903
+Imagen 6 de la carpeta ./generated_images/image_set_87, JOD: 8.2773
+Imagen 7 de la carpeta ./generated_images/image_set_87, JOD: 7.4517
+Imagen 8 de la carpeta ./generated_images/image_set_87, JOD: 6.6975
+Imagen 9 de la carpeta ./generated_images/image_set_87, JOD: 9.5728
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_88
+Imagen 10 de la carpeta ./generated_images/image_set_88, JOD: 9.3119
+Imagen 11 de la carpeta ./generated_images/image_set_88, JOD: 8.9806
+Imagen 12 de la carpeta ./generated_images/image_set_88, JOD: 8.6292
+Imagen 13 de la carpeta ./generated_images/image_set_88, JOD: 9.8151
+Imagen 14 de la carpeta ./generated_images/image_set_88, JOD: 9.6562
+Imagen 15 de la carpeta ./generated_images/image_set_88, JOD: 9.4793
+Imagen 16 de la carpeta ./generated_images/image_set_88, JOD: 9.3005
+Imagen 1 de la carpeta ./generated_images/image_set_88, JOD: 7.5008
+Imagen 2 de la carpeta ./generated_images/image_set_88, JOD: 5.8167
+Imagen 3 de la carpeta ./generated_images/image_set_88, JOD: 5.3135
+Imagen 4 de la carpeta ./generated_images/image_set_88, JOD: 5.0400
+Imagen 5 de la carpeta ./generated_images/image_set_88, JOD: 9.1859
+Imagen 6 de la carpeta ./generated_images/image_set_88, JOD: 8.3028
+Imagen 7 de la carpeta ./generated_images/image_set_88, JOD: 7.4366
+Imagen 8 de la carpeta ./generated_images/image_set_88, JOD: 6.6844
+Imagen 9 de la carpeta ./generated_images/image_set_88, JOD: 9.5799
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_89
+Imagen 10 de la carpeta ./generated_images/image_set_89, JOD: 9.3166
+Imagen 11 de la carpeta ./generated_images/image_set_89, JOD: 8.9977
+Imagen 12 de la carpeta ./generated_images/image_set_89, JOD: 8.6253
+Imagen 13 de la carpeta ./generated_images/image_set_89, JOD: 9.8150
+Imagen 14 de la carpeta ./generated_images/image_set_89, JOD: 9.6495
+Imagen 15 de la carpeta ./generated_images/image_set_89, JOD: 9.4681
+Imagen 16 de la carpeta ./generated_images/image_set_89, JOD: 9.2945
+Imagen 1 de la carpeta ./generated_images/image_set_89, JOD: 7.5500
+Imagen 2 de la carpeta ./generated_images/image_set_89, JOD: 5.9125
+Imagen 3 de la carpeta ./generated_images/image_set_89, JOD: 5.2785
+Imagen 4 de la carpeta ./generated_images/image_set_89, JOD: 5.0050
+Imagen 5 de la carpeta ./generated_images/image_set_89, JOD: 9.1846
+Imagen 6 de la carpeta ./generated_images/image_set_89, JOD: 8.3114
+Imagen 7 de la carpeta ./generated_images/image_set_89, JOD: 7.3993
+Imagen 8 de la carpeta ./generated_images/image_set_89, JOD: 6.5988
+Imagen 9 de la carpeta ./generated_images/image_set_89, JOD: 9.5744
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_9
+Imagen 10 de la carpeta ./generated_images/image_set_9, JOD: 9.3145
+Imagen 11 de la carpeta ./generated_images/image_set_9, JOD: 8.9835
+Imagen 12 de la carpeta ./generated_images/image_set_9, JOD: 8.5863
+Imagen 13 de la carpeta ./generated_images/image_set_9, JOD: 9.8147
+Imagen 14 de la carpeta ./generated_images/image_set_9, JOD: 9.6310
+Imagen 15 de la carpeta ./generated_images/image_set_9, JOD: 9.4773
+Imagen 16 de la carpeta ./generated_images/image_set_9, JOD: 9.3038
+Imagen 1 de la carpeta ./generated_images/image_set_9, JOD: 7.4864
+Imagen 2 de la carpeta ./generated_images/image_set_9, JOD: 5.8200
+Imagen 3 de la carpeta ./generated_images/image_set_9, JOD: 5.2046
+Imagen 4 de la carpeta ./generated_images/image_set_9, JOD: 4.9780
+Imagen 5 de la carpeta ./generated_images/image_set_9, JOD: 9.1882
+Imagen 6 de la carpeta ./generated_images/image_set_9, JOD: 8.3090
+Imagen 7 de la carpeta ./generated_images/image_set_9, JOD: 7.4821
+Imagen 8 de la carpeta ./generated_images/image_set_9, JOD: 6.6880
+Imagen 9 de la carpeta ./generated_images/image_set_9, JOD: 9.5730
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_90
+Imagen 10 de la carpeta ./generated_images/image_set_90, JOD: 9.3162
+Imagen 11 de la carpeta ./generated_images/image_set_90, JOD: 8.9657
+Imagen 12 de la carpeta ./generated_images/image_set_90, JOD: 8.5632
+Imagen 13 de la carpeta ./generated_images/image_set_90, JOD: 9.8242
+Imagen 14 de la carpeta ./generated_images/image_set_90, JOD: 9.6548
+Imagen 15 de la carpeta ./generated_images/image_set_90, JOD: 9.4706
+Imagen 16 de la carpeta ./generated_images/image_set_90, JOD: 9.2838
+Imagen 1 de la carpeta ./generated_images/image_set_90, JOD: 7.5406
+Imagen 2 de la carpeta ./generated_images/image_set_90, JOD: 5.8463
+Imagen 3 de la carpeta ./generated_images/image_set_90, JOD: 5.2002
+Imagen 4 de la carpeta ./generated_images/image_set_90, JOD: 4.9289
+Imagen 5 de la carpeta ./generated_images/image_set_90, JOD: 9.1721
+Imagen 6 de la carpeta ./generated_images/image_set_90, JOD: 8.3281
+Imagen 7 de la carpeta ./generated_images/image_set_90, JOD: 7.4721
+Imagen 8 de la carpeta ./generated_images/image_set_90, JOD: 6.6221
+Imagen 9 de la carpeta ./generated_images/image_set_90, JOD: 9.5659
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_91
+Imagen 10 de la carpeta ./generated_images/image_set_91, JOD: 9.2839
+Imagen 11 de la carpeta ./generated_images/image_set_91, JOD: 8.9872
+Imagen 12 de la carpeta ./generated_images/image_set_91, JOD: 8.6144
+Imagen 13 de la carpeta ./generated_images/image_set_91, JOD: 9.8198
+Imagen 14 de la carpeta ./generated_images/image_set_91, JOD: 9.6461
+Imagen 15 de la carpeta ./generated_images/image_set_91, JOD: 9.4715
+Imagen 16 de la carpeta ./generated_images/image_set_91, JOD: 9.2959
+Imagen 1 de la carpeta ./generated_images/image_set_91, JOD: 7.4840
+Imagen 2 de la carpeta ./generated_images/image_set_91, JOD: 5.9007
+Imagen 3 de la carpeta ./generated_images/image_set_91, JOD: 5.2742
+Imagen 4 de la carpeta ./generated_images/image_set_91, JOD: 4.9929
+Imagen 5 de la carpeta ./generated_images/image_set_91, JOD: 9.1674
+Imagen 6 de la carpeta ./generated_images/image_set_91, JOD: 8.3364
+Imagen 7 de la carpeta ./generated_images/image_set_91, JOD: 7.4579
+Imagen 8 de la carpeta ./generated_images/image_set_91, JOD: 6.6752
+Imagen 9 de la carpeta ./generated_images/image_set_91, JOD: 9.5782
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_92
+Imagen 10 de la carpeta ./generated_images/image_set_92, JOD: 9.2922
+Imagen 11 de la carpeta ./generated_images/image_set_92, JOD: 8.9865
+Imagen 12 de la carpeta ./generated_images/image_set_92, JOD: 8.6015
+Imagen 13 de la carpeta ./generated_images/image_set_92, JOD: 9.8183
+Imagen 14 de la carpeta ./generated_images/image_set_92, JOD: 9.6425
+Imagen 15 de la carpeta ./generated_images/image_set_92, JOD: 9.4768
+Imagen 16 de la carpeta ./generated_images/image_set_92, JOD: 9.2979
+Imagen 1 de la carpeta ./generated_images/image_set_92, JOD: 7.5280
+Imagen 2 de la carpeta ./generated_images/image_set_92, JOD: 5.9173
+Imagen 3 de la carpeta ./generated_images/image_set_92, JOD: 5.1400
+Imagen 4 de la carpeta ./generated_images/image_set_92, JOD: 4.9184
+Imagen 5 de la carpeta ./generated_images/image_set_92, JOD: 9.1683
+Imagen 6 de la carpeta ./generated_images/image_set_92, JOD: 8.3081
+Imagen 7 de la carpeta ./generated_images/image_set_92, JOD: 7.4596
+Imagen 8 de la carpeta ./generated_images/image_set_92, JOD: 6.6412
+Imagen 9 de la carpeta ./generated_images/image_set_92, JOD: 9.5661
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_93
+Imagen 10 de la carpeta ./generated_images/image_set_93, JOD: 9.3156
+Imagen 11 de la carpeta ./generated_images/image_set_93, JOD: 8.9710
+Imagen 12 de la carpeta ./generated_images/image_set_93, JOD: 8.6188
+Imagen 13 de la carpeta ./generated_images/image_set_93, JOD: 9.8223
+Imagen 14 de la carpeta ./generated_images/image_set_93, JOD: 9.6480
+Imagen 15 de la carpeta ./generated_images/image_set_93, JOD: 9.4850
+Imagen 16 de la carpeta ./generated_images/image_set_93, JOD: 9.3211
+Imagen 1 de la carpeta ./generated_images/image_set_93, JOD: 7.5445
+Imagen 2 de la carpeta ./generated_images/image_set_93, JOD: 5.7932
+Imagen 3 de la carpeta ./generated_images/image_set_93, JOD: 5.2955
+Imagen 4 de la carpeta ./generated_images/image_set_93, JOD: 4.8857
+Imagen 5 de la carpeta ./generated_images/image_set_93, JOD: 9.1956
+Imagen 6 de la carpeta ./generated_images/image_set_93, JOD: 8.2639
+Imagen 7 de la carpeta ./generated_images/image_set_93, JOD: 7.4066
+Imagen 8 de la carpeta ./generated_images/image_set_93, JOD: 6.6859
+Imagen 9 de la carpeta ./generated_images/image_set_93, JOD: 9.5746
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_94
+Imagen 10 de la carpeta ./generated_images/image_set_94, JOD: 9.3224
+Imagen 11 de la carpeta ./generated_images/image_set_94, JOD: 8.9779
+Imagen 12 de la carpeta ./generated_images/image_set_94, JOD: 8.5970
+Imagen 13 de la carpeta ./generated_images/image_set_94, JOD: 9.8146
+Imagen 14 de la carpeta ./generated_images/image_set_94, JOD: 9.6377
+Imagen 15 de la carpeta ./generated_images/image_set_94, JOD: 9.4784
+Imagen 16 de la carpeta ./generated_images/image_set_94, JOD: 9.3028
+Imagen 1 de la carpeta ./generated_images/image_set_94, JOD: 7.5227
+Imagen 2 de la carpeta ./generated_images/image_set_94, JOD: 5.9577
+Imagen 3 de la carpeta ./generated_images/image_set_94, JOD: 5.1639
+Imagen 4 de la carpeta ./generated_images/image_set_94, JOD: 4.8730
+Imagen 5 de la carpeta ./generated_images/image_set_94, JOD: 9.1702
+Imagen 6 de la carpeta ./generated_images/image_set_94, JOD: 8.2692
+Imagen 7 de la carpeta ./generated_images/image_set_94, JOD: 7.3691
+Imagen 8 de la carpeta ./generated_images/image_set_94, JOD: 6.6138
+Imagen 9 de la carpeta ./generated_images/image_set_94, JOD: 9.5835
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_95
+Imagen 10 de la carpeta ./generated_images/image_set_95, JOD: 9.2952
+Imagen 11 de la carpeta ./generated_images/image_set_95, JOD: 8.9964
+Imagen 12 de la carpeta ./generated_images/image_set_95, JOD: 8.6332
+Imagen 13 de la carpeta ./generated_images/image_set_95, JOD: 9.8275
+Imagen 14 de la carpeta ./generated_images/image_set_95, JOD: 9.6475
+Imagen 15 de la carpeta ./generated_images/image_set_95, JOD: 9.4750
+Imagen 16 de la carpeta ./generated_images/image_set_95, JOD: 9.3059
+Imagen 1 de la carpeta ./generated_images/image_set_95, JOD: 7.4538
+Imagen 2 de la carpeta ./generated_images/image_set_95, JOD: 5.7977
+Imagen 3 de la carpeta ./generated_images/image_set_95, JOD: 5.3380
+Imagen 4 de la carpeta ./generated_images/image_set_95, JOD: 4.8835
+Imagen 5 de la carpeta ./generated_images/image_set_95, JOD: 9.1687
+Imagen 6 de la carpeta ./generated_images/image_set_95, JOD: 8.3484
+Imagen 7 de la carpeta ./generated_images/image_set_95, JOD: 7.4334
+Imagen 8 de la carpeta ./generated_images/image_set_95, JOD: 6.6154
+Imagen 9 de la carpeta ./generated_images/image_set_95, JOD: 9.5698
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_96
+Imagen 10 de la carpeta ./generated_images/image_set_96, JOD: 9.3240
+Imagen 11 de la carpeta ./generated_images/image_set_96, JOD: 8.9941
+Imagen 12 de la carpeta ./generated_images/image_set_96, JOD: 8.6031
+Imagen 13 de la carpeta ./generated_images/image_set_96, JOD: 9.8116
+Imagen 14 de la carpeta ./generated_images/image_set_96, JOD: 9.6412
+Imagen 15 de la carpeta ./generated_images/image_set_96, JOD: 9.4817
+Imagen 16 de la carpeta ./generated_images/image_set_96, JOD: 9.3037
+Imagen 1 de la carpeta ./generated_images/image_set_96, JOD: 7.4543
+Imagen 2 de la carpeta ./generated_images/image_set_96, JOD: 5.8866
+Imagen 3 de la carpeta ./generated_images/image_set_96, JOD: 5.2506
+Imagen 4 de la carpeta ./generated_images/image_set_96, JOD: 4.9448
+Imagen 5 de la carpeta ./generated_images/image_set_96, JOD: 9.1991
+Imagen 6 de la carpeta ./generated_images/image_set_96, JOD: 8.2860
+Imagen 7 de la carpeta ./generated_images/image_set_96, JOD: 7.4787
+Imagen 8 de la carpeta ./generated_images/image_set_96, JOD: 6.7402
+Imagen 9 de la carpeta ./generated_images/image_set_96, JOD: 9.5722
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_97
+Imagen 10 de la carpeta ./generated_images/image_set_97, JOD: 9.3170
+Imagen 11 de la carpeta ./generated_images/image_set_97, JOD: 8.9954
+Imagen 12 de la carpeta ./generated_images/image_set_97, JOD: 8.5813
+Imagen 13 de la carpeta ./generated_images/image_set_97, JOD: 9.8137
+Imagen 14 de la carpeta ./generated_images/image_set_97, JOD: 9.6401
+Imagen 15 de la carpeta ./generated_images/image_set_97, JOD: 9.4843
+Imagen 16 de la carpeta ./generated_images/image_set_97, JOD: 9.3055
+Imagen 1 de la carpeta ./generated_images/image_set_97, JOD: 7.5143
+Imagen 2 de la carpeta ./generated_images/image_set_97, JOD: 5.8755
+Imagen 3 de la carpeta ./generated_images/image_set_97, JOD: 5.1627
+Imagen 4 de la carpeta ./generated_images/image_set_97, JOD: 4.9535
+Imagen 5 de la carpeta ./generated_images/image_set_97, JOD: 9.1803
+Imagen 6 de la carpeta ./generated_images/image_set_97, JOD: 8.3143
+Imagen 7 de la carpeta ./generated_images/image_set_97, JOD: 7.4518
+Imagen 8 de la carpeta ./generated_images/image_set_97, JOD: 6.7103
+Imagen 9 de la carpeta ./generated_images/image_set_97, JOD: 9.5723
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_98
+Imagen 10 de la carpeta ./generated_images/image_set_98, JOD: 9.2980
+Imagen 11 de la carpeta ./generated_images/image_set_98, JOD: 8.9839
+Imagen 12 de la carpeta ./generated_images/image_set_98, JOD: 8.6020
+Imagen 13 de la carpeta ./generated_images/image_set_98, JOD: 9.8039
+Imagen 14 de la carpeta ./generated_images/image_set_98, JOD: 9.6478
+Imagen 15 de la carpeta ./generated_images/image_set_98, JOD: 9.4739
+Imagen 16 de la carpeta ./generated_images/image_set_98, JOD: 9.3166
+Imagen 1 de la carpeta ./generated_images/image_set_98, JOD: 7.5320
+Imagen 2 de la carpeta ./generated_images/image_set_98, JOD: 5.8646
+Imagen 3 de la carpeta ./generated_images/image_set_98, JOD: 5.1411
+Imagen 4 de la carpeta ./generated_images/image_set_98, JOD: 4.8961
+Imagen 5 de la carpeta ./generated_images/image_set_98, JOD: 9.2004
+Imagen 6 de la carpeta ./generated_images/image_set_98, JOD: 8.3576
+Imagen 7 de la carpeta ./generated_images/image_set_98, JOD: 7.4622
+Imagen 8 de la carpeta ./generated_images/image_set_98, JOD: 6.7348
+Imagen 9 de la carpeta ./generated_images/image_set_98, JOD: 9.5815
+-------------------------------------------------------------------------------------------------
+Procesando imágenes en la carpeta: ./generated_images/image_set_99
+Imagen 10 de la carpeta ./generated_images/image_set_99, JOD: 9.3025
+Imagen 11 de la carpeta ./generated_images/image_set_99, JOD: 8.9902
+Imagen 12 de la carpeta ./generated_images/image_set_99, JOD: 8.6512
+Imagen 13 de la carpeta ./generated_images/image_set_99, JOD: 9.8092
+Imagen 14 de la carpeta ./generated_images/image_set_99, JOD: 9.6563
+Imagen 15 de la carpeta ./generated_images/image_set_99, JOD: 9.4870
+Imagen 16 de la carpeta ./generated_images/image_set_99, JOD: 9.3037
+Imagen 1 de la carpeta ./generated_images/image_set_99, JOD: 7.5902
+Imagen 2 de la carpeta ./generated_images/image_set_99, JOD: 5.8731
+Imagen 3 de la carpeta ./generated_images/image_set_99, JOD: 5.2173
+Imagen 4 de la carpeta ./generated_images/image_set_99, JOD: 4.8904
+Imagen 5 de la carpeta ./generated_images/image_set_99, JOD: 9.1614
+Imagen 6 de la carpeta ./generated_images/image_set_99, JOD: 8.3269
+Imagen 7 de la carpeta ./generated_images/image_set_99, JOD: 7.4066
+Imagen 8 de la carpeta ./generated_images/image_set_99, JOD: 6.7201
+Imagen 9 de la carpeta ./generated_images/image_set_99, JOD: 9.5638
+El promedio de las comparaciones para el valor de imagen noise 1 es: 7.5113, y la desviación estándar es: 0.0405496
+El promedio de las comparaciones para el valor de imagen noise 2 es: 5.88307, y la desviación estándar es: 0.0529337
+El promedio de las comparaciones para el valor de imagen noise 3 es: 5.23418, y la desviación estándar es: 0.0608377
+El promedio de las comparaciones para el valor de imagen noise 4 es: 4.92824, y la desviación estándar es: 0.0634024
+El promedio de las comparaciones para el valor de imagen noise 5 es: 9.18294, y la desviación estándar es: 0.0139535
+El promedio de las comparaciones para el valor de imagen noise 6 es: 8.30792, y la desviación estándar es: 0.0235243
+El promedio de las comparaciones para el valor de imagen noise 7 es: 7.42615, y la desviación estándar es: 0.0343185
+El promedio de las comparaciones para el valor de imagen noise 8 es: 6.66873, y la desviación estándar es: 0.0426141
+El promedio de las comparaciones para el valor de imagen noise 9 es: 9.57466, y la desviación estándar es: 0.00778191
+El promedio de las comparaciones para el valor de imagen noise 10 es: 9.30928, y la desviación estándar es: 0.0104839
+El promedio de las comparaciones para el valor de imagen noise 11 es: 8.9764, y la desviación estándar es: 0.0126189
+El promedio de las comparaciones para el valor de imagen noise 12 es: 8.61824, y la desviación estándar es: 0.0179924
+El promedio de las comparaciones para el valor de imagen noise 13 es: 9.81763, y la desviación estándar es: 0.00512819
+El promedio de las comparaciones para el valor de imagen noise 14 es: 9.64638, y la desviación estándar es: 0.00538577
+El promedio de las comparaciones para el valor de imagen noise 15 es: 9.47802, y la desviación estándar es: 0.00606508
+El promedio de las comparaciones para el valor de imagen noise 16 es: 9.30201, y la desviación estándar es: 0.00906015
